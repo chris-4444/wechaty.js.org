@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://wechaty.js.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wechaty.js.org/" rel="alternate" type="text/html" /><updated>2021-05-05T04:48:52+00:00</updated><id>https://wechaty.js.org/feed.xml</id><title type="html">Wechaty</title><subtitle>Conversational RPA SDK for Chatbot Makers</subtitle><entry><title type="html">Google Season of Docs 2021 Applicant: Souvik Biswas</title><link href="https://wechaty.js.org/2021/05/04/gsod-2021-applicant-sbis04/" rel="alternate" type="text/html" title="Google Season of Docs 2021 Applicant: Souvik Biswas" /><published>2021-05-04T00:00:00+00:00</published><updated>2021-05-04T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/05/04/gsod-2021-applicant-sbis04</id><content type="html" xml:base="https://wechaty.js.org/2021/05/04/gsod-2021-applicant-sbis04/">&lt;p&gt;I am &lt;a href=&quot;https://www.souvikbiswas.com/&quot;&gt;Souvik Biswas&lt;/a&gt;, currently pursuing a Bachelor of Technology degree (2018 - 2022) in Computer Science &amp;amp; Engineering from the Indian Institute of Information Technology Kalyani. Also, a freelance technical writer of Codemagic and LogRocket Blog, and a passionate mobile app developer.&lt;/p&gt;
+
+&lt;p&gt;I love open source contribution and even have a number of projects of my own which are available on &lt;strong&gt;GitHub&lt;/strong&gt;, you can find them &lt;a href=&quot;https://github.com/sbis04&quot;&gt;here&lt;/a&gt;. Maintainer of the Flutter package &lt;a href=&quot;https://pub.dev/packages/video_trimmer&quot;&gt;video_trimmer&lt;/a&gt;. Have contributed to a number of organizations in the past, and had been a part of &lt;strong&gt;Hacktoberfest&lt;/strong&gt; 2018, 2019 &amp;amp; 2020.&lt;/p&gt;
+
+&lt;p&gt;I have worked on over &lt;strong&gt;70 technical articles&lt;/strong&gt; having &lt;strong&gt;500K+ views&lt;/strong&gt; which are published on various platforms including &lt;a href=&quot;https://medium.com/@sbis1999&quot;&gt;Medium&lt;/a&gt;, &lt;a href=&quot;https://blog.codemagic.io/&quot;&gt;Codemagic Blog&lt;/a&gt; and &lt;a href=&quot;https://blog.logrocket.com/&quot;&gt;LogRocket Blog&lt;/a&gt;. Apart from that, I have also worked on &lt;strong&gt;2 ebooks&lt;/strong&gt; which are published by Codemagic.&lt;/p&gt;
+
+&lt;p&gt;You can connect with me on &lt;a href=&quot;https://twitter.com/sbis04&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;https://www.linkedin.com/in/sbis04/&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I am an applicant of GSoD 2021 for the Wechaty organization for improving their tutorial section of the documentation and make it more beginner friendly.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gsod-2021-project-proposal&quot;&gt;GSoD 2021 Project Proposal&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Open source organization:&lt;/strong&gt; Wechaty&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; Create easy to learn tutorials for beginner users of Wechaty&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; Souvik Biswas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; sbis1999@gmail.com&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.souvikbiswas.com&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sbis04&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@sbis1999&quot;&gt;Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/sbis04&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project length:&lt;/strong&gt; Standard length (3 months)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;technical-writing-experience&quot;&gt;Technical Writing Experience&lt;/h3&gt;
+
+&lt;h4 id=&quot;freelance-technical-writer---codemagic-blog&quot;&gt;Freelance Technical Writer - Codemagic Blog&lt;/h4&gt;
+
+&lt;p&gt;Have written over 60+ articles and contributed to 2 ebooks published by Codemagic.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Topics of the articles consists of Android, Flutter, React Native, DevOps, CI/CD&lt;/li&gt;
+  &lt;li&gt;Contributed to Flutter Libraries ebook and CI/CD for Mobile App Developers&lt;/li&gt;
+  &lt;li&gt;Have written a comprehensive Cheatsheet of Codemagic YAML&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;freelance-technical-writer---logrocket-blog&quot;&gt;Freelance Technical Writer - LogRocket Blog&lt;/h4&gt;
+
+&lt;p&gt;Started writing articles related to Flutter framework&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;New concepts introduced by Flutter 2.0&lt;/li&gt;
+  &lt;li&gt;Integration of Flutter with various services&lt;/li&gt;
+  &lt;li&gt;Comprehensive code walkthrough&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;technical-writer---flutter-community&quot;&gt;Technical Writer - Flutter Community&lt;/h4&gt;
+
+&lt;p&gt;Published various articles, mostly consisting of code walkthroughs. The articles have received over &lt;strong&gt;350K+ view&lt;/strong&gt;s on Medium.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each article has a supporting sample app open-sourced on GitHub&lt;/li&gt;
+  &lt;li&gt;Covered various important concepts in Flutter&lt;/li&gt;
+  &lt;li&gt;Testing in Flutter&lt;/li&gt;
+  &lt;li&gt;Code-signing and delivering apps to different platforms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;technical-writer---proandroiddev&quot;&gt;Technical Writer - ProAndroidDev&lt;/h4&gt;
+
+&lt;p&gt;Written articles on various UI and Navigation components used in Android.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Building complex layouts&lt;/li&gt;
+  &lt;li&gt;Using Navigation component in Android&lt;/li&gt;
+  &lt;li&gt;Kotlin’s new features&lt;/li&gt;
+  &lt;li&gt;Code walkthrough&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;technical-writer---journal&quot;&gt;Technical Writer - Journal&lt;/h4&gt;
+
+&lt;p&gt;Have written article on VR on web&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Building VR apps using React360&lt;/li&gt;
+  &lt;li&gt;Integrating React360 VR apps in Flutter&lt;/li&gt;
+  &lt;li&gt;Deploying to GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;research-work&quot;&gt;Research Work&lt;/h3&gt;
+
+&lt;p&gt;I am a part of a research group of our university, working on new &lt;strong&gt;post-quantum encryption schemes&lt;/strong&gt; and &lt;strong&gt;Blockchain&lt;/strong&gt;. We have submitted three research papers for publication which received a very positive feedback from the editors and would be published soon. We are currently working on a new consensus algorithm which would be compatible with IoT devices.&lt;/p&gt;
+
+&lt;h3 id=&quot;links-to-some-of-my-most-popular-articles&quot;&gt;Links to some of my most popular articles&lt;/h3&gt;
+
+&lt;p&gt;I have worked on over &lt;strong&gt;70 articles&lt;/strong&gt; published across various sites including Medium, Codemagic Blog, LogRocket Blog. Have contributed to &lt;strong&gt;2 ebooks&lt;/strong&gt; published by Codemagic.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/flutter-community/flutter-implementing-google-sign-in-71888bca24ed&quot;&gt;Flutter: Implementing Google Sign In&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codemagic.io/codemagic-yaml-cheatsheet/&quot;&gt;Codemagic YAML cheat sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codemagic.io/ci-cd-ebook/&quot;&gt;Ebook on CI/CD for Mobile Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codemagic.io/flutter-libraries-ebook/&quot;&gt;Flutter libraries ebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://proandroiddev.com/designing-complex-ui-using-android-constraintlayout-cb0606823da0&quot;&gt;Designing complex UI using Android ConstraintLayout&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/flutter-community/my-journey-building-a-video-trimmer-package-for-flutter-73cd82997a7f&quot;&gt;My Journey building a Video Trimmer package for Flutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/flutter-community/my-journey-building-a-video-trimmer-package-for-flutter-73cd82997a7f&quot;&gt;Flutter VR: Flutter + React 360 + GitHub Pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codemagic.io/react-native-detox-tests-on-codemagic/&quot;&gt;How to run React Native Detox tests on Codemagic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codemagic.io/dart-vs-kotlin/&quot;&gt;Dart vs Kotlin: detailed comparison&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codemagic.io/dynamic-workflows-with-codemagic-api/&quot;&gt;How to take advantage of Dynamic Workflows using Codemagic API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codemagic.io/text-recognition-using-firebase-ml-kit-flutter/&quot;&gt;How to perform text recognition using Firebase ML Kit in Flutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.codemagic.io/distributing-native-ios-sdk-with-flutter-module-using-codemagic/&quot;&gt;iOS Code Signing and Publishing with Codemagic .yaml file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These were some of the articles, you can find more &lt;a href=&quot;https://medium.com/@sbis1999&quot;&gt;here&lt;/a&gt;. Apart from this, I have also done a significant amount of contribution to the &lt;a href=&quot;https://docs.codemagic.io/&quot;&gt;Codemagic Documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;h4 id=&quot;current-state-of-wechaty-tutorials&quot;&gt;Current State of WeChaty Tutorials&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Users come to Wechaty website seeking how to use Wechaty to build a chatbot application for solving their problems. Unfortunately, the learning curve is not friendly to our users, they always struggle with setting up with their development environment, can not get started with the simplest example source code, and find it hard to know what they can do with our API. This problem leads to us losing lots of new users, increased number of questions asked in the community, and lowered user satisfaction.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The current version of the Wechaty Tutorials is not properly structured.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The tutorials on the website needs improvement, and should be beginner friendly.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;proposed-work&quot;&gt;Proposed Work&lt;/h3&gt;
+
+&lt;p&gt;Update the &lt;strong&gt;Tutorials&lt;/strong&gt; to include a step-by-step guide (easy for beginners to follow) for achieving the final goal of building a bot.&lt;/p&gt;
+
+&lt;p&gt;The Tutorial project should:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Allow the user to learn by doing&lt;/li&gt;
+  &lt;li&gt;Get the user started&lt;/li&gt;
+  &lt;li&gt;Make sure that the tutorial works all the time&lt;/li&gt;
+  &lt;li&gt;Ensure the user sees results immediately&lt;/li&gt;
+  &lt;li&gt;Make the tutorial repeatable&lt;/li&gt;
+  &lt;li&gt;Focus on concrete steps, not abstract concepts&lt;/li&gt;
+  &lt;li&gt;Provide the minimum necessary explanation&lt;/li&gt;
+  &lt;li&gt;Focus only on the steps the user needs to take&lt;/li&gt;
+  &lt;li&gt;Work with the contributor team to update the documentation on the Wechaty site.&lt;/li&gt;
+  &lt;li&gt;Add easy to follow video tutorials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Each of the documentation page should be structured in a particular format (so that users get familiarized with the format and would be much easier to follow). And, each of the tutorial pages for building a bot should contain an interactive &lt;strong&gt;CodeSandbox&lt;/strong&gt; at the end (consisting of minimal code and TODO steps) where they can apply the knowledge that they gained by following the tutorial, and build a bot totally by themselves!&lt;/p&gt;
+
+&lt;p&gt;I have included a detailed &lt;strong&gt;structure&lt;/strong&gt; (further down the article) of each documentation page that I propose to be followed for every bot building tutorial.&lt;/p&gt;
+
+&lt;p&gt;One more thing that I noticed in the Tutorials is the lack of a &lt;strong&gt;defined goal&lt;/strong&gt; that the user should expect to achieve at the end of that step-by-step guide. So, there should be a clear description of the goal in the introduction of each tutorial.&lt;/p&gt;
+
+&lt;h3 id=&quot;contributions&quot;&gt;Contributions&lt;/h3&gt;
+
+&lt;p&gt;Some contributions that I have done to the &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org&quot;&gt;Wechaty GitHub repo&lt;/a&gt; are mentioned below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update Getting started - Running locally instructions (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/763&quot;&gt;#763&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Update the vorpal demo screenshot (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/780&quot;&gt;#780&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Add instructions and interactive sandbox for Vorpal (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/779&quot;&gt;#779&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Update vorpal with wechaty doc (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/772&quot;&gt;#772&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Update Getting started - Running locally (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/757&quot;&gt;#757&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Improve Vorpal docs (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/791&quot;&gt;#791&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Update images to use normal Markdown format - Vorpal tutorial page (&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/802&quot;&gt;#802&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;project-goals-timeline&quot;&gt;Project Goals (Timeline)&lt;/h3&gt;
+
+&lt;h3 id=&quot;before-may-1&quot;&gt;Before May 1&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Familiarize myself with the current version of the user documentation of Wechaty, and identify the parts that require improvements.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make contributions to the Wechaty repository adding some improvements.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;community-bonding&quot;&gt;Community bonding&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set up a communication channel and time (due to timezone difference).&lt;/li&gt;
+  &lt;li&gt;Refine my goals and set expectations on both sides.&lt;/li&gt;
+  &lt;li&gt;Discussing about the structure of each tutorial page in documentation.&lt;/li&gt;
+  &lt;li&gt;Finalize the order of editing the tutorial sections.&lt;/li&gt;
+  &lt;li&gt;Discuss about the best way to add the interactive CodeSandboxes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;documentation-period&quot;&gt;Documentation Period&lt;/h3&gt;
+
+&lt;p&gt;Wechaty repository &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As per the discussion with the community members, start working on a tutorial page - adding the improvements, properly structuring the pages, adding interactive CodeSandbox, adding video walkthrough (if necessary), adding relevant screenshots and defining a goal in the introduction of the tutorial (so that users have the idea of what they will achieve at the end of the tutorial).&lt;/p&gt;
+
+&lt;p&gt;A proposed structure of the tutorial documentation is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; (also include the goal of the tutorial)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Try out the bot&lt;/strong&gt; (CodeSandbox)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Requirements&lt;/strong&gt; (tools required to follow the tutorial)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Usage&lt;/strong&gt; (code snippet - for users who may be searching for how to use the bot in their project, and doesn’t want to go deep into the step-by-step tutorial)*&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video tutorial&lt;/strong&gt; (optional)*&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Getting started&lt;/strong&gt; (Quick introduction to the required tools and how to setup their development environment to get started building the bot)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Building the bot&lt;/strong&gt; (step-by-step guide for building the bot, with a CodeSandbox at the end having minimal code and TODO steps where users can try building the bot by themselves directly on the documentation page without installing any tools on their local system)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Running the bot&lt;/strong&gt; (commands for running the bot locally)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bot demonstration&lt;/strong&gt; (commands that they can use with the bot, and maybe a GIF showing the invocation of some of the commands on WeChat or WhatsApp)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;*Require some feedback from the community members&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;week-1--1st-may---8th-may&quot;&gt;Week 1 : (1st May - 8th May)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Start by adding missing content to one of the tutorials (maybe &lt;strong&gt;Vorpal&lt;/strong&gt; first as I have already started contributing to that page)&lt;/li&gt;
+  &lt;li&gt;Try out the bot (&lt;strong&gt;CodeSandbox&lt;/strong&gt; - already added: &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/779&quot;&gt;#779&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Update the step-by-step guide to have more technical details on how to build the bot, adding brief explanation of each function used&lt;/li&gt;
+  &lt;li&gt;Add a &lt;strong&gt;CodeSandbox&lt;/strong&gt; at the end with the TODO (as explained above)&lt;/li&gt;
+  &lt;li&gt;Structure the tutorial properly as per the proposed structure given above&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-2--9th-may---15th-may&quot;&gt;Week 2 : (9th May - 15th May)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/&quot;&gt;Tutorials: Overview&lt;/a&gt; page by adding information about what are the different types of tutorial available that then can go through (keep updating this as new tutorials are added to the docs)&lt;/li&gt;
+  &lt;li&gt;In the &lt;a href=&quot;https://wechaty.js.org/docs/getting-started/&quot;&gt;Getting started overview&lt;/a&gt; page add information about what are the different ways that can get started with Wechaty bots.&lt;/li&gt;
+  &lt;li&gt;Include the &lt;strong&gt;CodeSandbox&lt;/strong&gt; of the Ding Dong bot to the &lt;a href=&quot;https://wechaty.js.org/docs/getting-started/quick-start&quot;&gt;Quick start&lt;/a&gt; page, so that users can try out the bot directly.&lt;/li&gt;
+  &lt;li&gt;Short videos may be included for running the Ding Dong bot using GitPod and Google Cloud Shell.&lt;/li&gt;
+  &lt;li&gt;Update the page with screenshots or GIF of the Ding Dong bot running on a device (WeChat / WhatsApp).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-3--16th-may---22nd-may&quot;&gt;Week 3 : (16th May - 22nd May)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add getting started examples for &lt;a href=&quot;https://wechaty.js.org/docs/polyglot/&quot;&gt;Polyglot Wechaty&lt;/a&gt; (multi-language) as per the conversation &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/763#discussion_r619794643&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Update the page structure and include &lt;strong&gt;CodeSandbox&lt;/strong&gt; for the bot (if necessary).&lt;/li&gt;
+  &lt;li&gt;Add screenshots / GIFs to this page.&lt;/li&gt;
+  &lt;li&gt;Device screenshots / GIF after running the bot.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-4--23rd-may---29th-may&quot;&gt;Week 4 : (23rd May - 29th May)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check any improvements that can be made to the &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/docker&quot;&gt;Usage with Docker&lt;/a&gt; page, and add any missing section (if required).&lt;/li&gt;
+  &lt;li&gt;Verify the examples run properly on Wechaty Docker.&lt;/li&gt;
+  &lt;li&gt;Make the page consistent and follow the proposed structure.&lt;/li&gt;
+  &lt;li&gt;Add screenshots / GIF of the running Docker instance (if required)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-5--30th-may---5th-june&quot;&gt;Week 5 : (30th May - 5th June)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add instructions to the &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/usage-with-heroku&quot;&gt;Usage with Heroku&lt;/a&gt; page.&lt;/li&gt;
+  &lt;li&gt;Structure this page correctly.&lt;/li&gt;
+  &lt;li&gt;Add screenshots while updating the instructions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-6--6th-june---12th-june&quot;&gt;Week 6 : (6th June - 12th June)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/using-plugin-with-wechaty&quot;&gt;Using Plugin with Wechaty&lt;/a&gt; page can be divided into several sub-sections each consisting of a tutorial for one Wechaty Plugin Contrib Package.&lt;/li&gt;
+  &lt;li&gt;Adding information and step-by-step tutorial for each plugin.&lt;/li&gt;
+  &lt;li&gt;Include a &lt;strong&gt;CodeSandbox&lt;/strong&gt; to try out the bot.&lt;/li&gt;
+  &lt;li&gt;Add screenshots and GIFs where necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-7--13th-june---19th-june&quot;&gt;Week 7 : (13th June - 19th June)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continue with creating separate pages for each plugin.&lt;/li&gt;
+  &lt;li&gt;Make each page follow the proposed structure&lt;/li&gt;
+  &lt;li&gt;Adding information and step-by-step tutorial for each plugin.&lt;/li&gt;
+  &lt;li&gt;Include a &lt;strong&gt;CodeSandbox&lt;/strong&gt; to try out the bot.&lt;/li&gt;
+  &lt;li&gt;Adding screenshots and GIFs where necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-8--20th-june---26th-june&quot;&gt;Week 8 : (20th June - 26th June)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add proper introduction to the &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/using-redux-with-wechaty&quot;&gt;Using Redux with Wechaty&lt;/a&gt; along with a defined goal for following this tutorial.&lt;/li&gt;
+  &lt;li&gt;Structure the page properly&lt;/li&gt;
+  &lt;li&gt;Include code explanation and interactive &lt;strong&gt;CodeSandbox&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Add screenshots or GIFs (if necessary)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-9--27th-june---3rd-july&quot;&gt;Week 9 : (27th June - 3rd July)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create tutorial pages for some of the bots mentioned on the &lt;a href=&quot;https://wechaty.js.org/docs/showcases/&quot;&gt;Showcases&lt;/a&gt; page (need feedback from the community members).&lt;/li&gt;
+  &lt;li&gt;Build tutorial for &lt;a href=&quot;https://wechaty.js.org/docs/showcases/osschat-bot&quot;&gt;OSSChat&lt;/a&gt; bot (if approved by community members).&lt;/li&gt;
+  &lt;li&gt;Add &lt;strong&gt;CodeSandbox&lt;/strong&gt; and code explanation.&lt;/li&gt;
+  &lt;li&gt;Add screenshots or GIFs (if necessary)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-10--4th-july---10th-july&quot;&gt;Week 10 : (4th July - 10th July)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work on creating tutorials for using the &lt;a href=&quot;https://wechaty.js.org/docs/showcases/rui-bot&quot;&gt;RuiBot&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://wechaty.js.org/docs/showcases/friday-bot&quot;&gt;Friday BOT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Include step-by-step guide and &lt;strong&gt;CodeSandbox&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Add screenshots or GIFs (if necessary)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-11--11th-july---17th-july&quot;&gt;Week 11 : (11th July - 17th July)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Start working on the &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/cheatsheet&quot;&gt;Cheat Sheet&lt;/a&gt; which would consist of the following:
+    &lt;ul&gt;
+      &lt;li&gt;Brief description of a bot&lt;/li&gt;
+      &lt;li&gt;Code snippet to use it&lt;/li&gt;
+      &lt;li&gt;Tech description (in brief)&lt;/li&gt;
+      &lt;li&gt;Example - CodeSandbox (maybe included)&lt;/li&gt;
+      &lt;li&gt;Screenshots / GIFs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Creating the cheat sheet will take time (most probably two weeks).&lt;/p&gt;
+
+&lt;h4 id=&quot;week-12--18th-july---24th-july&quot;&gt;Week 12 : (18th July - 24th July)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continue with the cheat sheet.&lt;/li&gt;
+  &lt;li&gt;Create short video tutorials for some of the most used bots (if necessary).&lt;/li&gt;
+  &lt;li&gt;Decide what are the things to be included to the &lt;a href=&quot;https://wechaty.js.org/docs/tutorials/examples&quot;&gt;Examples&lt;/a&gt; page.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;week-13--14&quot;&gt;Week 13 &amp;amp; 14&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add &lt;strong&gt;multi-language support&lt;/strong&gt; to the tutorials lacking it.&lt;/li&gt;
+  &lt;li&gt;Including content to some of the pages of &lt;strong&gt;How-to Guides&lt;/strong&gt; by discussing with the community members&lt;/li&gt;
+  &lt;li&gt;Add content to the &lt;a href=&quot;https://wechaty.js.org/docs/contributing/testing&quot;&gt;Testing&lt;/a&gt; page&lt;/li&gt;
+  &lt;li&gt;Improve the structuring of the pages (if required - by discussing with the community members).&lt;/li&gt;
+  &lt;li&gt;Get final reviews from the community and finalize the work done.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is an estimated project goal, changes might be done if suggested by mentors and community members.&lt;/p&gt;
+
+&lt;h3 id=&quot;measuring-the-projects-success&quot;&gt;Measuring the project’s success&lt;/h3&gt;
+
+&lt;p&gt;The project would be considered successful if after publication of the new documentation:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The tutorials page views increase by 50%&lt;/li&gt;
+  &lt;li&gt;The visit duration on tutorials increases by 50% (&amp;gt;2 minutes)&lt;/li&gt;
+  &lt;li&gt;The bounce rate of tutorials decreases by 30% (&amp;lt;50%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;why-am-i-the-right-person-for-this-project&quot;&gt;Why am I the right person for this project?&lt;/h3&gt;
+
+&lt;p&gt;I believe I am the right person for this project because I have previous experience of contributing to documentation and how to structure the modules properly so that it is easier for beginners to follow. I have also worked on a comprehensive &lt;a href=&quot;https://blog.codemagic.io/codemagic-yaml-cheatsheet/&quot;&gt;cheat sheet&lt;/a&gt; in the past, and I am comfortable with Git &amp;amp; GitHub to make the contributions.&lt;/p&gt;
+
+&lt;p&gt;I have already started contributing to the documentation of &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org&quot;&gt;Wechaty&lt;/a&gt; and would love to work on it as a part of the &lt;strong&gt;GSoD 2021&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;stipend&quot;&gt;Stipend&lt;/h3&gt;
+
+&lt;p&gt;Based on work division.&lt;/p&gt;
+
+&lt;p&gt;If one technical writer is selected - $5000&lt;/p&gt;
+
+&lt;p&gt;If work is divided between two technical writers - $2500. In this case, I am open to collaborating with the other technical writer and working as a team.&lt;/p&gt;
+
+&lt;h3 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; Souvik Biswas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Kolkata, West Bengal, India&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time Zone:&lt;/strong&gt; UTC +05:30&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Typical working hours:&lt;/strong&gt; 7 AM - 2 PM (UTC +05:30)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sbis04</name></author><category term="proposal" /><category term="google" /><category term="gsod" /><category term="2021" /><category term="docs" /><category term="introduction" /><category term="project" /><category term="proposal" /><summary type="html">I am Souvik Biswas, currently pursuing a Bachelor of Technology degree (2018 - 2022) in Computer Science &amp;amp; Engineering from the Indian Institute of Information Technology Kalyani. Also, a freelance technical writer of Codemagic and LogRocket Blog, and a passionate mobile app developer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/05-gsod-2021-applicant-sbis04/wechaty_contributor_gsod_2021.png" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/05-gsod-2021-applicant-sbis04/wechaty_contributor_gsod_2021.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shwetal Soni: GSOD’21 project proposal for wechaty</title><link href="https://wechaty.js.org/2021/05/03/gsod-project-proposal-shwetal-wechaty/" rel="alternate" type="text/html" title="Shwetal Soni: GSOD’21 project proposal for wechaty" /><published>2021-05-03T00:00:00+00:00</published><updated>2021-05-03T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/05/03/gsod-project-proposal-shwetal-wechaty</id><content type="html" xml:base="https://wechaty.js.org/2021/05/03/gsod-project-proposal-shwetal-wechaty/">&lt;h2 id=&quot;gsod21-proposal-for-wechaty&quot;&gt;GSOD21 Proposal for Wechaty&lt;/h2&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Hello Fellow Developers!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/57187745?v=4&quot; alt=&quot;Shwetal Soni&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Myself Shwetal Soni. I’m CSE Sophomore from National Institue of Technology Hamirpur, Himachal Pradesh, India and a Frontend Web Developer and UI/UX Designer also. Currently I’m exploring blockchains. I’m interested in contributing to wechaty’s tutorial.&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-writer&quot;&gt;Technical Writer&lt;/h2&gt;
+
+&lt;p&gt;Shwetal Soni&lt;/p&gt;
+
+&lt;h2 id=&quot;contact-email&quot;&gt;Contact Email&lt;/h2&gt;
+
+&lt;p&gt;sonishwetal704@gmail.com&lt;/p&gt;
+
+&lt;h2 id=&quot;professional-information&quot;&gt;Professional Information&lt;/h2&gt;
+
+&lt;h2 id=&quot;writing-samples&quot;&gt;Writing Samples&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shwetalsoni.medium.com/building-your-first-dapp-on-tezos-part-1-writing-smart-contract-on-smartpy-d7cdf27476f9&quot;&gt;Tutorial for writing Smart Contracts on Tezos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shwetalsoni.medium.com/getting-over-imposter-syndrome-ccafb14aee12&quot;&gt;Getting over Imposter Syndrome&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;my-resume&quot;&gt;My Resume&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1IVq10MpokB8-LMYBVvBXDKcqpBY4m-t0/view?usp=sharing&quot;&gt;shwetalsoni_resume&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;my-portfolio&quot;&gt;My Portfolio&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://shwetalsoni.github.io/&quot;&gt;shwetalsoni.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview-of-my-recent-work&quot;&gt;Overview of my recent work&lt;/h2&gt;
+
+&lt;p&gt;Recently I had written a beginner-friendly tutorial for writing smart contracts on SmartPy which takes the user from introducing to blockchain to finally deploying a smart contract. To make it easier to understand I have attached screenshots guiding them throughout the whole process ensuring they learn by doing. I got it reviewed by some people and they really found it useful and easy to follow.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-title&quot;&gt;Project Title&lt;/h2&gt;
+
+&lt;p&gt;Create easy to learn tutorials for beginner users of Wechaty&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Tutorials are lessons that take the reader by the hand through a series of steps to complete running Wechaty code. They are what our project needs in order to show a beginner that they can achieve something with it. They are wholly learning-oriented, and specifically, they are oriented towards learning ‘how’ rather than learning ‘what’. Tutorials need to be useful for the beginner, easy to follow, meaningful, extremely robust, and kept up-to-date.
+The Tutorial project should:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Allow the user to learn by doing&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Get the user started&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure that the tutorial works all the time&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ensure the user sees results immediately&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make the tutorial repeatable&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus on concrete steps, not abstract concepts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide the minimum necessary explanation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Focus only on the steps the user needs to take&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Work with the contributor team to update the documentation on the Wechaty site.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;current-situation&quot;&gt;Current Situation&lt;/h2&gt;
+
+&lt;p&gt;Users come to Wechaty website seeking how to use Wechaty to build a chatbot application for solving their problems. Unfortunately, the learning curve is not friendly to our users, they always struggle with setting up with their development environment, can not get started with the simplest example source code, and find it hard to know what they can do with our API. This problem leads to us losing lots of new users, an increased number of questions asked in the community, and lowered user satisfaction.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis&quot;&gt;Analysis&lt;/h2&gt;
+
+&lt;p&gt;Being a new user to wechaty I encountered a lot of problems while running Ding Dong Bot. For deep analysis, I asked some of my friends to go through the documentation and try running the bot. Almost everyone faced a lot of issues while running the bot. This clearly depicts that the Tutorial is not properly structured.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Following are the problems I have found out with the tutorials&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Quick Start is a place where most of the beginners will head over to and should be mentioned at the top of tutorials unlike now it is inside a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Getting Started&lt;/code&gt; dropdown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t mention something a learner doesn’t need to know in order to complete the tutorial. Inside Quick Start under the first heading &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;In Next 10 min,&lt;/code&gt; I found out that the points written there about getting QR Code for wechaty and QR Code for WhatsApp are useless and even misleading. It messed me up when clicking on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WeChat&lt;/code&gt; QR Code it didn’t open and later found out that it has nothing to do with the tutorial.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tutorials overview didn’t have necessary info on what are the ways in which users can get started. In many good documentations, I have found out that they provide the main link on the overview page so that users can head over from there directly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tutorials should always be working but Usage with Heroku is not working.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Video Tutorials are like icing on the cake and should be provided in a language that is widely spoken other than Chinese. I even found a comment on youtube requesting for English video.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There is a link &lt;a href=&quot;https://wechaty.js.org/2021/02/06/wechaty-getting-started-without-leave-your-browser/&quot;&gt;Getting started without leaving your browser&lt;/a&gt; after &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Let's run your first Ding Dong Bot&lt;/code&gt;  given in the read more section by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Huan Li&lt;/code&gt;. It is very well written and should be mentioned separately in the sidebar under the Gitpod option.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Currently Tutorials only teach the user to set up wechaty but a tutorial should also give the user an experience of working with the features of wechaty.&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&quot;page-break-after: always&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;based-on-the-above-analysis-i-propose-the-following-structure&quot;&gt;Based on the above analysis I propose the following structure&lt;/h2&gt;
+
+&lt;p&gt;Getting Started with Wechaty
+  |- Overview
+  |  -&amp;gt; Beginner Level
+  |     -&amp;gt; Running on Gitpod
+  |     -&amp;gt; Running on Google Cloud Shell
+  |     -&amp;gt; Running Locally
+  |     -&amp;gt; Creating your first bot from scratch
+  |  -&amp;gt; Intermediate and Advanced Level
+  |     -&amp;gt; Usage with Docker
+  |     -&amp;gt; Using with Heroku
+  |     -&amp;gt; Using Plugin with wechaty
+  |     -&amp;gt; Using Redux  with wechaty
+  |     -&amp;gt; Using Vorpal with wechaty
+  |- Quick Start
+  |  |- Running on Gitpod
+  |  |- Running on Google Cloud Shell
+  |  |- Running Locally
+  |- Tutorial Series(Creating your first bot from scratch)
+  |  |- From Scratch
+  |  |  |- Overview
+  |  |  |- Installation
+  |  |- Tutorial
+  |  |  |- Create a bot
+  |  |  |- Dealing with messages
+  |  |  |- Processing files
+  |  |  |- Writing tests
+  |- Video Tutorials
+  |  -&amp;gt; Chinese Tutorials
+  |  -&amp;gt; Other than Chinese Tutorials
+  |- Advanced Topics
+  |  |  |- Usage with Docker
+  |  |  |- Using with Heroku
+  |  |  |- Using Plugin with wechaty
+  |  |  |- Using Redux  with wechaty
+  |  |  |- Using Vorpal with wechaty&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The above structure is well organized from beginner to advanced level.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The overview section&lt;/strong&gt;  should give a complete overview of the topics. If a person is a beginner he can either simply run the app using any of the following options &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Running on Gitpod&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Running on Google Cloud Shell&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Running locally&lt;/code&gt; by clicking on the given links here.
+    &lt;ul&gt;
+      &lt;li&gt;Also the link for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Tutorial Series (Creating your first bot from scratch)&lt;/code&gt; will also be given in case a user want to follow up with steps creating their own chatbot.&lt;/li&gt;
+      &lt;li&gt;If a user has prior knowledge about wechaty, they can go to the advanced topics by clicking on the links given for respective topics &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Usage with Docker&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Using with Heroku&lt;/code&gt;, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Quick Start&lt;/strong&gt; should be divided into sections. If a user wants to run the app using Gitpod, there should be a separate page for that. Similarly for the remaining two options also. This will enable proper step-wise step tutorial for every option unlike now &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Running with Gitpod&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Running with Google Cloud Shell&lt;/code&gt; are both on the same page messing it up and leading to skipping of some important points.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tutorial Series(Creating your first bot from scratch)&lt;/strong&gt; is the most important part of this tutorial as this will allow the user to create their own chatbot from scratch and then playing around with the features provided by wechaty. It should be well equiped with code snippets with proper explanation and screenshots of how the result will look after running a given code/command. This will make sure that they learn by doing and will definitely gather interest of more users.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Video Tutorial&lt;/strong&gt; plays a great role in providing a better understanding and should be available in the language which is widely spoken.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Advanced Topics&lt;/strong&gt; At the end, if a user has gone through the easy concepts they can dive into intermediate and advanced concepts.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;why-is-my-proposed-tutorial-better&quot;&gt;Why is my proposed tutorial better?&lt;/h3&gt;
+
+&lt;p&gt;QuickStart will get the user started. The Tutorial Series will allow the user to learn by doing. Users can see immediate results in the form of output screenshots attached with every step. The whole structure focuses only on the steps the user needs to take with the minimum necessary explanation.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-am-i-the-right-person-for-this-project&quot;&gt;Why am I the right person for this project?&lt;/h3&gt;
+
+&lt;p&gt;From last year I have building many personal projects and also writing Readme for that. Recently I learned to write Smart Contracts on Tezos blockchain and it had very few resources available to get the user started and hence I struggled a lot. This motivated me to write a medium article &lt;a href=&quot;https://shwetalsoni.medium.com/building-your-first-dapp-on-tezos-part-1-writing-smart-contract-on-smartpy-d7cdf27476f9&quot;&gt;Tutorial for writing Smart Contracts on Tezos&lt;/a&gt;. So, I know what people expect from a tutorial. Hence, combining all my experience and analysis of this project I can assure a great tutorial.&lt;/p&gt;
+
+&lt;h2 id=&quot;proposed-timeline&quot;&gt;Proposed Timeline&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2 weeks&lt;/strong&gt; -&amp;gt; Information Gathering&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3 weeks&lt;/strong&gt; -&amp;gt; Restructuring the tutorials. Organizing and presenting the content in a better way.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;5 weeks&lt;/strong&gt; -&amp;gt; Creating a tutorial series.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2 weeks&lt;/strong&gt; -&amp;gt; Improvising and publication.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;proposed-budget&quot;&gt;Proposed Budget&lt;/h2&gt;
+
+&lt;p&gt;Technical Writer Stipend -&amp;gt; 5000 (Decided by the organization)&lt;/p&gt;</content><author><name>shwetalsoni</name></author><category term="proposal" /><category term="gsod" /><category term="docs" /><category term="introduction" /><category term="project" /><category term="proposal" /><summary type="html">GSOD21 Proposal for Wechaty</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/05-gsod-project-proposal-shwetal-wechaty/profilepic.jpeg" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/05-gsod-project-proposal-shwetal-wechaty/profilepic.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Soumi Bardhan: Interactive tutorials for newcomers</title><link href="https://wechaty.js.org/2021/05/03/interactive-tutorials-for-newcomers/" rel="alternate" type="text/html" title="Soumi Bardhan: Interactive tutorials for newcomers" /><published>2021-05-03T00:00:00+00:00</published><updated>2021-05-03T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/05/03/interactive-tutorials-for-newcomers</id><content type="html" xml:base="https://wechaty.js.org/2021/05/03/interactive-tutorials-for-newcomers/">&lt;h2 id=&quot;gsod-2021-project-proposal&quot;&gt;GSoD 2021 Project Proposal&lt;/h2&gt;
+
+&lt;h3 id=&quot;project---create-easy-to-learn-interactive-tutorials-for-beginner-users-of-wechaty&quot;&gt;Project - Create easy to learn interactive tutorials for beginner users of Wechaty&lt;/h3&gt;
+
+&lt;p&gt;I am Soumi Bardhan, a passionate python and deep learning dev.&lt;/p&gt;
+
+&lt;h4 id=&quot;google-season-of-docs-2020---technical-writer---sympy&quot;&gt;Google Season of Docs 2020 - Technical writer - Sympy&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sympy is a lightweight independent computer algebra system. Added and updated documentation, added missing style sections like Parameters and improved organization.&lt;/li&gt;
+  &lt;li&gt;My Season of Docs 2020 Report for the project Consistency Across docstrings : &lt;a href=&quot;https://github.com/sympy/sympy/wiki/GSoD-2020-Report-Soumi-Bardhan:-Consistency-across-docstrings---SymPy-Documentation&quot;&gt;Sympy Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Analysed metrics on the google search console before, during and after. Updated the modules with the most number of users first, then moved on to the less used modules.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cppsecretscom--python-developer-technical-writer&quot;&gt;Cppsecrets.com : Python Developer, technical writer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Well written articles and tutorials on several python libraries.&lt;/li&gt;
+  &lt;li&gt;Implementation of SQLAlchemy ORM for creating Flask Applications&lt;/li&gt;
+  &lt;li&gt;Functions of OS Module in python and implementations, tutorials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;geeks-for-geeks-technical-content-writer&quot;&gt;Geeks for Geeks, Technical Content Writer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Written articles based on OpenCV library functions and data structures and algorithms.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth.geeksforgeeks.org/user/soumibardhan10/articles&quot;&gt;Link to profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;data-driven-investor--technical-writer&quot;&gt;Data driven investor : Technical Writer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Articles and tutorials on deep learning.&lt;/li&gt;
+  &lt;li&gt;Using several deep learning methods to create models.&lt;/li&gt;
+  &lt;li&gt;Create frontend and backend applications to host the models on cloud.&lt;/li&gt;
+  &lt;li&gt;Docker and AWS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;analytics-vidhya-technical-writer&quot;&gt;Analytics Vidhya: Technical Writer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Articles and tutorials on deep learning.&lt;/li&gt;
+  &lt;li&gt;Using several deep learning methods on creating deep learning and ML models.&lt;/li&gt;
+  &lt;li&gt;Create frontend and backend applications to host the models on cloud.&lt;/li&gt;
+  &lt;li&gt;Using pycaret to create several regression models and tuning.&lt;/li&gt;
+  &lt;li&gt;LSTMs for Stock Prediction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;the-startup--technical-writer&quot;&gt;The Startup : Technical writer&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Startup is the largest active medium publication. I write technical articles mostly in the NLP domain.&lt;/li&gt;
+  &lt;li&gt;Natural Language Processing&lt;/li&gt;
+  &lt;li&gt;Deep Learning&lt;/li&gt;
+  &lt;li&gt;BERT(Bidirectional Encoder Representations from Transformers)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;research-work&quot;&gt;Research Work&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;My Research Work on Autism Spectrum Disorder Detection is also in progress. I am working at ITMR (Interactive Technologies &amp;amp; Multimedia Research) Lab, IIIT Allahabad remotely to simulate the results of my research work that is almost completed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links-to-some-of-my-medium-articles&quot;&gt;Links to some of my medium articles&lt;/h3&gt;
+
+&lt;p&gt;Named Entity Recognition — Simple Transformers — &lt;a href=&quot;https://medium.com/@soumibardhan10/named-entity-recognition-simple-transformers-flask-rest-api-ec14a7a444cb&quot;&gt;Flask REST API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fixing Open Source Vulnerabilities in Azure Dev Ops- &lt;a href=&quot;https://code.likeagirl.io/fixing-open-source-vulnerabilities-in-azure-dev-ops-whitesource-bolt-4a5e53cb9cfe&quot;&gt;WhiteSource Bolt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dockerizing and Hosting your Flask Web App(Rest API) on AWS &lt;a href=&quot;https://medium.com/datadriveninvestor/dockerizing-and-hosting-your-flask-web-app-rest-api-on-aws-ec2-9f9c189bf563&quot;&gt;EC2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Weather Based Stock Prediction with Pycaret - &lt;a href=&quot;https://medium.com/analytics-vidhya/weather-based-stock-prediction-with-pycaret-4d604cdeb68f&quot;&gt;Analytics Vidhya&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tkinter Application to Switch Between Different Page &lt;a href=&quot;https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/&quot;&gt;Frames&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I believe creating a consistent documentation of code is very important for any open source project for its growth.&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;h3 id=&quot;current-state-of-wechaty-tutorials-and-previous-work&quot;&gt;Current State of Wechaty Tutorials and previous work&lt;/h3&gt;
+
+&lt;p&gt;Users come to Wechaty website and are seeking how to use Wechaty to build a chatbot application for solving their problems. Unfortunately, the learning curve is not friendly to Wechaty users, they struggle with setting up their development environment, can not get started with the simplest example source code, and find it hard to know what they can do with the Wechaty API. This problem leads Wechaty to lose lots of new users, increases the number of questions asked in the community, and lowers the user satisfaction.&lt;/p&gt;
+
+&lt;p&gt;The current version of the Wechaty tutorial is not properly planned. The tutorials on the website have to be approved.&lt;/p&gt;
+
+&lt;h3 id=&quot;proposed-work&quot;&gt;Proposed Work&lt;/h3&gt;
+
+&lt;p&gt;Tutorials need to be useful for the beginner, easy to follow, meaningful and extremely robust, and kept up-to-date.&lt;/p&gt;
+
+&lt;p&gt;The Tutorial project will do the following :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Allow the user to learn by doing&lt;/li&gt;
+  &lt;li&gt;Get the user started&lt;/li&gt;
+  &lt;li&gt;Make sure that the tutorial works all the time&lt;/li&gt;
+  &lt;li&gt;Ensure the user sees results immediately&lt;/li&gt;
+  &lt;li&gt;Make the tutorial repeatable&lt;/li&gt;
+  &lt;li&gt;Focus on concrete steps, not abstract concepts&lt;/li&gt;
+  &lt;li&gt;Provide the minimum necessary explanation&lt;/li&gt;
+  &lt;li&gt;Focus only on the steps the user needs to take&lt;/li&gt;
+  &lt;li&gt;Work with the contributor team to update the documentation on the Wechaty site.&lt;/li&gt;
+  &lt;li&gt;Make video tutorials available in English&lt;/li&gt;
+  &lt;li&gt;Each Module in the documentation needs image screenshots as well as gifs and video demonstrating the action. It’s also important that they get access to both the code, screenshots, outputs and videos directly from the same page.&lt;/li&gt;
+  &lt;li&gt;To get beginners interested, it is important to define right in the beginning of tutorial what will be the end result. So that will be designed as well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;contributions&quot;&gt;Contributions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;795 : &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/795&quot;&gt;Added interactive code sandbox for contact bot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;797 : &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/797&quot;&gt;Added subsections to Examples section and reorginzation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;756 : &lt;a href=&quot;https://github.com/Wechaty/Wechaty.js.org/pull/756&quot;&gt;Updates Google Cloud instructions and images for Getting Started  Tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;749 : &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/749&quot;&gt;Enhance Getting started with Gitpod section of Getting Started Tutorials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;774 : &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/774&quot;&gt;Update getting started with Redux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;745 : &lt;a href=&quot;https://github.com/Wechaty/Wechaty.js.org/pull/745&quot;&gt;Updates Usage with Heroku Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;776 : &lt;a href=&quot;https://github.com/wechaty/wechaty.js.org/pull/776&quot;&gt;Added Case studies in English&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;project-goals-and-timeline&quot;&gt;Project Goals and Timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Before May 1, continue making contributions to Wechaty.&lt;/li&gt;
+  &lt;li&gt;Become more familiar with the user documentation and current version of Wechaty.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;community-bonding&quot;&gt;Community bonding&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set up a communication channel and time(due to timezone difference)&lt;/li&gt;
+  &lt;li&gt;Refine my goals and set expectations on both sides.&lt;/li&gt;
+  &lt;li&gt;Discussing the order in which the tutorial pages will be updated.&lt;/li&gt;
+  &lt;li&gt;Finalize the order of editing the tutorial sections.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;documentation-period&quot;&gt;Documentation Period&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Wechaty/Wechaty.js.org&quot;&gt;Wechaty Website repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;As we already have a repository for the website, I will start with updating the existing pages first. I think it is important to add video walkthroughs and tutorials for beginners.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For this, I will be collaborating with existing contributors and taking their inputs and feedback on the tutorials I create.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Two important changes :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Define a specific structure for every tutorial page :&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Aim&lt;/li&gt;
+      &lt;li&gt;Prerequisites&lt;/li&gt;
+      &lt;li&gt;Video Tutorial&lt;/li&gt;
+      &lt;li&gt;Steps (with Screenshots)&lt;/li&gt;
+      &lt;li&gt;Results&lt;/li&gt;
+      &lt;li&gt;Try Out the Bot (interactive section)&lt;/li&gt;
+      &lt;li&gt;Important links&lt;/li&gt;
+      &lt;li&gt;References&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cutting down on text and adding video tutorials and gifs to engage beginners.&lt;/li&gt;
+  &lt;li&gt;Add Interactive Sandboxes to all tutorials.&lt;/li&gt;
+  &lt;li&gt;Adding simple English text for pages available only in Chinese.&lt;/li&gt;
+  &lt;li&gt;Add a latest release section for blogs and information on the latest features.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-1--1nd-may---8th-may&quot;&gt;Week 1 : (1nd May - 8th May)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update cheat sheet and upload video tutorial on use cases.&lt;/li&gt;
+  &lt;li&gt;Cover common setbacks beginners face while contributing.&lt;/li&gt;
+  &lt;li&gt;Video tutorial for a first-time github contributor, for both code and documentation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-2--9th-may---15th-may&quot;&gt;Week 2 : (9th May - 15th May)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update docker.md and upload video tutorials.&lt;/li&gt;
+  &lt;li&gt;Demo of usage of Ding Dong Bot and Basic functions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-3--16th-may---22nd-may&quot;&gt;Week 3 : (16th May - 22nd May)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Video walkthrough of usage of advanced functions.&lt;/li&gt;
+  &lt;li&gt;Overview.md will be made more attractive and friendly, to excite new users. Will add gifs to the webpage.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-4--23rd-may---29th-may&quot;&gt;Week 4 : (23rd May - 29th May)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add Use cases of usage-with-heroku.md in details.&lt;/li&gt;
+  &lt;li&gt;Record demo videos and gifs of Friday Bot. Create interactive sandbox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-5--30th-may---5th-june&quot;&gt;Week 5 : (30th May - 5th June)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Record demo videos and gifs of :
+    &lt;ul&gt;
+      &lt;li&gt;OSSBot&lt;/li&gt;
+      &lt;li&gt;Mikt BO&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create interactive sandbox.&lt;/li&gt;
+  &lt;li&gt;Organize and record videos and gifs for using-plugin-with-Wechaty.md. New users need to be able to see visuals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-6--6th-june---12th-june&quot;&gt;Week 6 : (6th June - 12th June)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add separate pages for commonly used plugins with Wechaty.&lt;/li&gt;
+  &lt;li&gt;Record videos for Running DingDong bot with GitPod with gifs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-7--13th-june---19th-june&quot;&gt;Week 7 : (13th June - 19th June)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Record videos for running Dingdong bot with Google Cloud along with gifs for blog posts, which can act as teasers and shared in open source communities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-8--20th-june---26th-june&quot;&gt;Week 8 : (20th June - 26th June)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Record video tutorial for getting started the hard way. Also, instead of mentioning the “hard way”, we can write “for experienced devs”. That is bound to make it sound easy. Also, adding a video tutorial will make it easy and resolve any issues they face along the way.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-9--27th-june---3rd-july&quot;&gt;Week 9 : (27th June - 3rd July)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get started with Videos in simple easy to understand English about the Money Bot. (Here will need a bit of help with translation from already existing tutorials, although i will be creating completely fresh videos. )&lt;/li&gt;
+  &lt;li&gt;Update the website as well to be multilingual(will add simple easy to read English)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-10--4th-july---10th-july&quot;&gt;Week 10 : (4th July - 10th July)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the Assistant Bot webpage and create video tutorials.  Create interactive sandbox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-11--11th-july---17th-july&quot;&gt;Week 11 : (11th July - 17th July)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the Coaxer Bot webpage and create video tutorials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-12--18th-july---24th-july&quot;&gt;Week 12 : (18th July - 24th July)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the getting started - overview.md with gifs and visuals with what can be achieved with Wechaty.&lt;/li&gt;
+  &lt;li&gt;Add videos for setting up a development environment for new Wechaty contributors for the Contributing section of the docs.&lt;/li&gt;
+  &lt;li&gt;Add a video keynote from Wechaty creators in simple english talking about why Wechaty was developed and its history.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;week-13-and-14&quot;&gt;Week 13 and 14&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adding content to the testing page collaborating with the mentors.&lt;/li&gt;
+  &lt;li&gt;Finalizing the work done and getting final reviews from the community.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The modules mentioned here can be changed after further discussion with mentors and community.&lt;/p&gt;
+
+&lt;p&gt;As suggested by mentors and community and by the search control stats, I will focus on updating those modules first which are more beginner friendly.&lt;/p&gt;
+
+&lt;p&gt;The rest of the work will be decided based on the work done and search console results.&lt;/p&gt;
+
+&lt;h3 id=&quot;measuring-my-projects-success&quot;&gt;Measuring my project’s success&lt;/h3&gt;
+
+&lt;p&gt;Success shall be measured by the following metrics :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The tutorials page views increase by 50%&lt;/li&gt;
+  &lt;li&gt;The visit duration on tutorials increases by 50% (&amp;gt;2 minutes)&lt;/li&gt;
+  &lt;li&gt;The bounce rate of tutorials decreases by 30% (&amp;lt;50%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-am-i-the-right-person-for-this-project&quot;&gt;Why am I the right person for this project?&lt;/h2&gt;
+
+&lt;p&gt;I believe myself to be the right person for this project because I have past experience in technical writing and I am well versed with git and github. I also find Wechaty very interesting.&lt;/p&gt;
+
+&lt;p&gt;I have experience in writing tutorials as well as open source. I have worked as a technical writer with SymPy in GSoD 2020. I would love to improve Wechaty’s tutorials and documentation structure. I have set up the development environment for &lt;a href=&quot;https://github.com/Wechaty/Wechaty.js.org&quot;&gt;Wechaty&lt;/a&gt; [1] . I am very comfortable in making contributions.&lt;/p&gt;
+
+&lt;h2 id=&quot;stipend&quot;&gt;Stipend&lt;/h2&gt;
+
+&lt;p&gt;Based on work division.&lt;/p&gt;
+
+&lt;p&gt;If one technical writer is selected - $5000&lt;/p&gt;
+
+&lt;p&gt;If work is divided between two technical writers - $2500. In this case, I am open to collaborating with the other technical writer as well and working as a team.&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h2&gt;
+
+&lt;p&gt;Soumi Bardhan&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Soumi7&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/soumi-bardhan-8539b3191/&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soumibardhan10.medium.com/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Location:  Kolkata, West Bengal, India&lt;/li&gt;
+  &lt;li&gt;Time Zone: (UTC + 05:30)&lt;/li&gt;
+  &lt;li&gt;Typical working hours: 10AM - 7 PM (UTC + 05:30)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Wechaty/Wechaty-getting-started&quot;&gt;1&lt;/a&gt;
+&lt;a href=&quot;https://Wechaty.js.org/docs/contributing/&quot;&gt;2&lt;/a&gt;
+&lt;a href=&quot;https://Wechaty.js.org/docs/contributing/documentation/&quot;&gt;3&lt;/a&gt;&lt;/p&gt;</content><author><name>soumi7</name></author><category term="proposal" /><category term="python" /><category term="google" /><category term="gsod" /><category term="2021" /><category term="docs" /><category term="introduction" /><category term="project" /><category term="proposal" /><summary type="html">GSoD 2021 Project Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/05-interactive-tutorials-for-newcomers/gsod_s.png" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/05-interactive-tutorials-for-newcomers/gsod_s.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Joseph Mawa: 2021 Google Season of Docs Technical Proposal</title><link href="https://wechaty.js.org/2021/05/03/joseph-mawa-google-season-of-docs-project-technical-proposal/" rel="alternate" type="text/html" title="Joseph Mawa: 2021 Google Season of Docs Technical Proposal" /><published>2021-05-03T00:00:00+00:00</published><updated>2021-05-03T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/05/03/joseph-mawa-google-season-of-docs-project-technical-proposal</id><content type="html" xml:base="https://wechaty.js.org/2021/05/03/joseph-mawa-google-season-of-docs-project-technical-proposal/">&lt;p&gt;My name is Joseph Mawa. I am a technical writer and web developer. Below is my proposal for the project &lt;em&gt;Create easy to learn tutorials for beginner users of Wechaty&lt;/em&gt; under Google Season of Docs 2021.&lt;/p&gt;
+
+&lt;h2 id=&quot;statement-of-interest&quot;&gt;Statement of interest&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Personal information&lt;/li&gt;
+  &lt;li&gt;Name: Mukosa Joseph Mawa&lt;/li&gt;
+  &lt;li&gt;Email: mjm.mawa@gmail.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;professional-information&quot;&gt;Professional information&lt;/h2&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I am a self-taught web developer and technical writer with a passion for open source software. I have published a number of beginner friendly technical articles on &lt;a href=&quot;https://dev.to/nibble&quot;&gt;dev.to&lt;/a&gt; and &lt;a href=&quot;https://www.freecodecamp.org/news/javascript-events-explained-in-simple-english/&quot;&gt;freeCodeCamp&lt;/a&gt;. Before transitioning into tech, I was a high school  teacher. One of my core responsibilities as a teacher was simplifying and sequencing text written in complex technical language for learners to easily understand. I have  also been a frequent contributor to a couple of open source software. Notable ones are  ocaml.org and disease.sh.&lt;/p&gt;
+
+&lt;h3 id=&quot;writing-samples&quot;&gt;Writing samples&lt;/h3&gt;
+
+&lt;h4 id=&quot;beginner-friendly-technical-article-written-for--freecodecamp&quot;&gt;Beginner friendly technical article written for  freeCodeCamp&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/javascript-events-explained-in-simple-english/&quot;&gt;Browser events explained in simple English&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/how-to-add-a-netlify-form-to-a-react-app/&quot;&gt;How to add netlify form to a react app bootstrapped using create-react-app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;beginner-friendly-tutorials--published-on-devto&quot;&gt;Beginner friendly tutorials  published on dev.to&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nibble/what-is-useref-hook-and-how-do-you-use-it-5emo&quot;&gt;What is useRef hook and how do you use it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nibble/usecontext-hook-and-context-api-what-are-they-and-how-do-you-use-them-463a&quot;&gt;Usecontext hook and context API. What are they and when do you use them&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nibble/what-is-useeffect-hook-and-how-do-you-use-it-1p9c&quot;&gt;What is useEffect hook and how do you use it&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nibble/interview-type-coding-challenges-3i6i&quot;&gt;Interview type coding challenges in JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/nibble/what-is-useeffect-hook-and-how-do-you-use-it-1p9c&quot;&gt;What is useEffect hook and how do you use it&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;open-source-contribution&quot;&gt;Open source contribution&lt;/h4&gt;
+
+&lt;p&gt;I helped improve  firefox profiler setup instructions&lt;/p&gt;
+
+&lt;p&gt;Other useful links
+Resume
+portfolio&lt;/p&gt;
+
+&lt;h2 id=&quot;project-proposal&quot;&gt;Project proposal&lt;/h2&gt;
+
+&lt;h3 id=&quot;project-title&quot;&gt;Project title&lt;/h3&gt;
+
+&lt;p&gt;Create easy to learn tutorials for beginner users of Wechaty&lt;/p&gt;
+
+&lt;h3 id=&quot;project-approach&quot;&gt;Project approach&lt;/h3&gt;
+
+&lt;p&gt;This is a high level overview of how I intend to approach this project. This is an evolving plan which will likely change pending feedback from stakeholders.&lt;/p&gt;
+
+&lt;h4 id=&quot;seek-to-understand-stakeholders&quot;&gt;Seek to understand stakeholders&lt;/h4&gt;
+
+&lt;p&gt;The first thing I will do is try to understand my audience. The tutorials are meant for absolute beginners who want to learn Wechaty but  what else can we learn about them? If possible, I will seek answers to the following questions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is their technical background?&lt;/li&gt;
+  &lt;li&gt;What demographic groups do they belong to?&lt;/li&gt;
+  &lt;li&gt;What problem are they trying to solve with Wechaty?&lt;/li&gt;
+  &lt;li&gt;What is their motivation for using/learning Wechaty? Is it for  profit? Are they hackers doing it for fun? Are they using  Wechaty for building school projects? Are they researchers/ academics? Is it a mix of the above categories of people?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is important to  learn as much as possible about your audience before writing tutorials so that it is tailored to their needs.  Learning takes place much faster when it is structured from known to unknown and  reference  is made to what the learner already knows to explain a concept. It also ensures  cultural  sensitivity when giving examples especially in a global audience. The more you know about your audience the more relevant  your examples will be.
+Develop content
+Work with the project volunteer to come up with the list of key things a total beginner who wants to learn Wechaty needs to know. Break those key learning areas into the smallest units possible. For example a learner might need to set up a development environment. Setting up a development environment is not the smallest unit possible. It can still be broken down. For example one might need a  text editor,  install software such as  node or python,  have access to certain platforms e.t.c.&lt;/p&gt;
+
+&lt;h4 id=&quot;sequence-content&quot;&gt;Sequence content&lt;/h4&gt;
+
+&lt;p&gt;Sequence the learning areas which have been broken down in the previous step in chronological order. For example, the knowledge, skills and competences attained in step A might be prerequisite for step B, that of A and B might be needed for step C  and so on. If that is the case, it would make a lot more sense to sequence from A, to B then to C. Therefore sequencing the units appropriately from simple to complex, from known to unknown  will make the learning process enjoyable.&lt;/p&gt;
+
+&lt;h4 id=&quot;formulate--instructional-objectives&quot;&gt;Formulate  instructional objectives&lt;/h4&gt;
+
+&lt;p&gt;Turn those key learning areas into instructional objectives. The objective must be SMART.
+ S  - specific
+M - measurable
+A - attainable
+R - realistic
+T - within a time bound
+The smallest units in the previous sections can be amalgamated where necessary so as to make practical sense. A typical example of an instructional objective is: At the end of this section a learner should be able to set up a development environment for Wechaty. The objective is specific, measurable, attainable, realistic and within a time bound i.e. from the start of the section till the end. Achieving the above objective should contribute in a certain way to the overall objective of learning Wechaty so that a combination of all the small learning objectives will translate into the overall objective.&lt;/p&gt;
+
+&lt;h4 id=&quot;map--instructional-objectives-to-learning-activities&quot;&gt;Map  instructional objectives to learning activities&lt;/h4&gt;
+
+&lt;p&gt;Identify practical, repeatable activities a learner can perform to achieve the stated objectives in the previous section. Let us say  the main learning activity is building a chatbot using Wechaty. We would need to answer the following questions.
+What does building a chatbot using Wechaty entail?
+What steps should a learner follow when building a chatbot using Wechaty?&lt;/p&gt;
+
+&lt;p&gt;This should be done while paying attention to the  objectives in the previous section  to make sure they are being achieved as the learner goes through these activities. The cardinal reason for going through the tutorials is to achieve the objectives in the previous section which will ultimately translate into the overall objective.&lt;/p&gt;
+
+&lt;h4 id=&quot;structure-and-write-content&quot;&gt;Structure and write content&lt;/h4&gt;
+
+&lt;p&gt;After outlining the activities in the previous section,  we  need to structure the content in a meaningful way. The proposed content structure and presentation  is to split the tutorial into high level units/ sections. Each unit/section will have the following components. This is important because it  ensures that anyone who has forgotten a specific concept can go to that specific section to remind themselves. Below are the proposed components of a unit. Each unit needs to have a  link to the next and previous  unit.&lt;/p&gt;
+
+&lt;h5 id=&quot;section-heading&quot;&gt;Section heading&lt;/h5&gt;
+
+&lt;p&gt;The section heading should be a high level summary of what the learner will be doing in a particular  section. It should capture the objective you wish to achieve by making the learner go through the activity.&lt;/p&gt;
+
+&lt;h5 id=&quot;explanation&quot;&gt;Explanation&lt;/h5&gt;
+
+&lt;p&gt;Immediately after the heading, there should be a brief explanation of what the learner will be doing in this particular  section and why they are doing it. The focus should be on the learner. It is therefore important to use  statements such as: In this section, you will declare a function which takes a string as argument and returns the number of characters in it. The focus here is on what the learner will do.&lt;/p&gt;
+
+&lt;h5 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h5&gt;
+
+&lt;p&gt;After an explanation of what the learner will do  in this section as articulated in the preceding subsection, there should be an outline of what the learner should know or have,  to be able to complete this section successfully. For example the knowledge acquired in the preceding sections might be necessary to be able to complete this section. A learner might also need to have access to certain platforms such as whatsapp or facebook. This is where the prerequisites have to be clearly outlined. Prerequisites could also be software or other tools necessary to complete the section.&lt;/p&gt;
+
+&lt;h5 id=&quot;steps&quot;&gt;Steps&lt;/h5&gt;
+
+&lt;p&gt;These are the actual steps a learner will have to go through. If it is a multi-step process, you can  number them. For example step 1, step 2, step 3  and so on. There is no need to number if it is a single step process.&lt;/p&gt;
+
+&lt;h5 id=&quot;expected-output&quot;&gt;Expected output&lt;/h5&gt;
+
+&lt;p&gt;What should happen if a learner successfully followed the steps outlined in the above subsection. An example of expected output is: After successfully installing software  X, you should see it listed in the package.json file. We can also provide hints on possible  challenges  the learner might encounter in this section and how they can be fixed.&lt;/p&gt;
+
+&lt;h5 id=&quot;fun-quiz&quot;&gt;Fun Quiz&lt;/h5&gt;
+
+&lt;p&gt;If  possible,  simple optional quizzes should be included at the end of each section to test the knowledge gained. This can boost the morale of the learner and give feedback about the progress they are making.&lt;/p&gt;
+
+&lt;h5 id=&quot;additional-resources&quot;&gt;Additional resources&lt;/h5&gt;
+
+&lt;p&gt;This is an optional  section which points to additional resources a curious learner can explore to expand their knowledge about what has been covered in that particular section. It can link to Wechaty API if necessary.&lt;/p&gt;
+
+&lt;h5 id=&quot;things-to-pay-attention-to-while-writing-the-tutorial&quot;&gt;Things to pay attention to while writing the tutorial**&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use simple English that a non native speaker can easily understand without having to look up meaning of words or phrases&lt;/li&gt;
+  &lt;li&gt;Avoid long sentences.&lt;/li&gt;
+  &lt;li&gt;Minimize use of acronyms&lt;/li&gt;
+  &lt;li&gt;Avoid unnecessarily long paragraphs which might confuse learners&lt;/li&gt;
+  &lt;li&gt;Use formal language&lt;/li&gt;
+  &lt;li&gt;Be gender sensitive. Gender neutral language  is better&lt;/li&gt;
+  &lt;li&gt;Pay attention to grammar and spelling&lt;/li&gt;
+  &lt;li&gt;Pay attention to technical accuracy&lt;/li&gt;
+  &lt;li&gt;Focus more on what the learner will do&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;proposed-timeline&quot;&gt;Proposed timeline&lt;/h4&gt;
+
+&lt;p&gt;Below is an estimate of the timeframe  within which  this project will be completed. It has been broken down  into subtasks. It is worth pointing out that the processes below are not linear. They are iterative and cyclical. They can  change as feedback is received from  different stakeholders and incorporated in the project.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Month&lt;/th&gt;
+      &lt;th&gt;Activities&lt;/th&gt;
+      &lt;th&gt;Stakeholders&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; Technical writer learns  Wechaty &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Engage stakeholders to understand the Wechaty community &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Develop outline of  tutorial  content &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Develop learning objectives &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Formulate tutorial structure at a higher level &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; First tutorial draft &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Release first draft and take  feedback &amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;Volunteer&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Contributors&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Users&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; Receive feedback from stakeholders about first draft &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Incorporate feedback given for first draft &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Release second draft &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Incorporate feedback from stakeholders &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Test the tutorial with volunteer  beginners &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Incorporate feedback from volunteers &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Release final version of tutorials &amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;Volunteer&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Contributors&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Users&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; Audit Wechaty website &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Propose changes to the volunteer mentor &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Make improvements to the Wechaty website &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Get feedback &amp;lt;/li&amp;gt;&amp;lt;li&amp;gt; Incorporate feedback &amp;lt;/li&amp;gt;&lt;/td&gt;
+      &lt;td&gt;&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;Volunteer&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Contributors&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Users&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;proposed-budget&quot;&gt;Proposed budget&lt;/h2&gt;
+
+&lt;p&gt;The proposed budget for the entire  project is 5000USD(Negotiable).&lt;/p&gt;</content><author><name>nibble0101</name></author><category term="proposal" /><category term="google" /><category term="gsod" /><category term="2021" /><category term="gsod'21" /><category term="project" /><category term="proposal" /><summary type="html">My name is Joseph Mawa. I am a technical writer and web developer. Below is my proposal for the project Create easy to learn tutorials for beginner users of Wechaty under Google Season of Docs 2021.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/05-joseph-mawa-google-season-of-docs-project-technical-proposal/lemur.jpeg" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/05-joseph-mawa-google-season-of-docs-project-technical-proposal/lemur.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Reconstruct Wechaty landing page with value propositions</title><link href="https://wechaty.js.org/2021/05/01/landing-page-value-proposition/" rel="alternate" type="text/html" title="Reconstruct Wechaty landing page with value propositions" /><published>2021-05-01T00:00:00+00:00</published><updated>2021-05-01T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/05/01/landing-page-value-proposition</id><content type="html" xml:base="https://wechaty.js.org/2021/05/01/landing-page-value-proposition/">&lt;blockquote&gt;
+  &lt;p&gt;What is &lt;a href=&quot;https://en.wikipedia.org/wiki/Value_proposition&quot;&gt;Value Proposition&lt;/a&gt;?
+  A value proposition is a statement that
+  answers the ‘why’ someone should do business with you.
+  It should convince a potential customer
+  why your service or product will be of more value to them
+  than similar offerings from your competition.
+  — &lt;a href=&quot;https://www.freecodecamp.org/news/cracking-google-season-of-docs-2020/&quot;&gt;How to Crack the Google Season of Docs, Edidiong Asikpo, 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/05-landing-page-value-proposition/value-creation-process.png&quot; alt=&quot;Value creating process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The phrase(term) “value proposition” was first used in the paper &lt;a href=&quot;http://www.dpvgroup.com/wp-content/uploads/2009/11/1988-A-Business-is-a-VDS-McK-Staff-Ppr.pdf&quot;&gt;A Business is a Value Delivery System, Michael Lanning and Edward Michaels, 1988&lt;/a&gt; for the consulting firm McKinsey.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-value-proposition-is-important&quot;&gt;Why Value Proposition is Important&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;Value Proposition&lt;/em&gt; is a statement that answers the ‘why’ someone should do business with you.&lt;/p&gt;
+
+&lt;p&gt;It should convince a potential customer why your service or product will be of more value to them than similar offerings from your competition.&lt;/p&gt;
+
+&lt;p&gt;You know why your company is great, but do your potential customers know what sets your brand apart?&lt;/p&gt;
+
+&lt;p&gt;it must tell your audience:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How your product or service solves/improves problems&lt;/li&gt;
+  &lt;li&gt;What benefits customers can expect&lt;/li&gt;
+  &lt;li&gt;Why customers should buy from you over your competitors&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It introduces you to prospective buyers and helps you make a strong first impression. That’s why it is so important to have a powerful one.&lt;/p&gt;
+
+&lt;h2 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h2&gt;
+
+&lt;p&gt;Your value proposition needs to be specific, and address the problems that you can help your customers solve.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identify all the benefits your product offers.&lt;/li&gt;
+  &lt;li&gt;Describe what makes these benefits valuable.&lt;/li&gt;
+  &lt;li&gt;Identify your customer’s main problem.&lt;/li&gt;
+  &lt;li&gt;Connect this value to your buyer’s problem.&lt;/li&gt;
+  &lt;li&gt;Differentiate yourself as the preferred provider of this value.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It should be clear and concise. Anything too long will lose your readers.&lt;/p&gt;
+
+&lt;p&gt;In a nutshell, a value proposition is a clear statement that offers three things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Relevancy. Explain how your product solves customers’ problems or improves their situation.&lt;/li&gt;
+  &lt;li&gt;Quantified value. Deliver specific benefits.&lt;/li&gt;
+  &lt;li&gt;Differentiation. Tell the ideal customer why they should buy from you and not from the competition.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;template&quot;&gt;Template&lt;/h2&gt;
+
+&lt;p&gt;The value proposition is usually a block of text (a headline, sub-headline, and one paragraph of text) with a visual (photo, hero image, graphics).&lt;/p&gt;
+
+&lt;p&gt;There is no one right way to go about it. We suggest you start with the following formula:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Headline. What is the end-benefit you’re offering in one short sentence? It can mention the product and/or customer. Make it an attention grabber.&lt;/li&gt;
+  &lt;li&gt;Sub-headline or a 2–3 sentence paragraph. A specific explanation of what you do/offer, for whom, and why it’s useful.&lt;/li&gt;
+  &lt;li&gt;3 bullet points. List the key benefits or features.&lt;/li&gt;
+  &lt;li&gt;Visual. Images communicate much faster than words. Show the product image, the hero shot, or an image reinforcing your main message.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;evaluate&quot;&gt;Evaluate&lt;/h2&gt;
+
+&lt;p&gt;Evaluate your current value proposition by checking whether it answers the questions below:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What product or service is your company selling?&lt;/li&gt;
+  &lt;li&gt;What is the end-benefit of using it?&lt;/li&gt;
+  &lt;li&gt;Who is your target customer for this product or service?&lt;/li&gt;
+  &lt;li&gt;What makes your offering unique and different?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Use the headline/paragraph/bullets/visual formula to structure the answers.&lt;/p&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/05-landing-page-value-proposition/value-proposition.webp&quot; alt=&quot;Value Proposition&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.impactbnd.com/blog/value-proposition-examples&quot;&gt;The 31 Best Value Proposition Examples You Wish You Had&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Stripe&lt;/li&gt;
+  &lt;li&gt;MailChimp&lt;/li&gt;
+  &lt;li&gt;Lyft&lt;/li&gt;
+  &lt;li&gt;Dollar Shave Club&lt;/li&gt;
+  &lt;li&gt;Mizzen and Main&lt;/li&gt;
+  &lt;li&gt;Pagely&lt;/li&gt;
+  &lt;li&gt;Bitly&lt;/li&gt;
+  &lt;li&gt;Unbounce&lt;/li&gt;
+  &lt;li&gt;Apple MacBook&lt;/li&gt;
+  &lt;li&gt;Vimeo&lt;/li&gt;
+  &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;about-wechaty-landing-page&quot;&gt;About Wechaty Landing Page&lt;/h2&gt;
+
+&lt;p&gt;The Wechaty landing page &lt;a href=&quot;https://wechaty.js.org&quot;&gt;https://wechaty.js.org&lt;/a&gt; has been created with the default &lt;a href=&quot;https://docusaurus.io/&quot;&gt;Docusaurus 2&lt;/a&gt; template.&lt;/p&gt;
+
+&lt;p&gt;It’s clean but has too few information about the value proposition, and we want to improve it.&lt;/p&gt;
+
+&lt;p&gt;The plan is to add more information to our landing pages, so that it will can deliver the value propositions like the examples above. (Strip, MailChimp, Lyft, etc.)&lt;/p&gt;
+
+&lt;h2 id=&quot;the-reconstructing-plan&quot;&gt;The Reconstructing Plan&lt;/h2&gt;
+
+&lt;p&gt;I have drafted a list of the value proposation in our &lt;a href=&quot;https://bit.ly/3tmsN3j&quot;&gt;Wechaty Meeting Notes&lt;/a&gt; and will continue improving it over there.&lt;/p&gt;
+
+&lt;p&gt;Currently, I believe we have the following points can be showed on our landing page:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Wechaty/wechaty/wiki/Voice%20Of%20Developer&quot;&gt;Voice from Developers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wechaty Puppet
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/docs/puppet-providers/&quot;&gt;Providers&lt;/a&gt;
+        &lt;ol&gt;
+          &lt;li&gt;WeChat&lt;/li&gt;
+          &lt;li&gt;WeWork&lt;/li&gt;
+          &lt;li&gt;Whatsapp&lt;/li&gt;
+          &lt;li&gt;Lark&lt;/li&gt;
+          &lt;li&gt;…&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/docs/puppet-services/&quot;&gt;Services&lt;/a&gt;
+        &lt;ol&gt;
+          &lt;li&gt;WXWork&lt;/li&gt;
+          &lt;li&gt;PadLocal&lt;/li&gt;
+          &lt;li&gt;Paimon&lt;/li&gt;
+          &lt;li&gt;Donut&lt;/li&gt;
+          &lt;li&gt;…&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/showcases/&quot;&gt;Showcases&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Friday BOT&lt;/li&gt;
+      &lt;li&gt;OSS.Chat&lt;/li&gt;
+      &lt;li&gt;…&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/polyglot/&quot;&gt;Polyglot&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;TypeScript/JavaScript&lt;/li&gt;
+      &lt;li&gt;gRPC&lt;/li&gt;
+      &lt;li&gt;OpenAPI&lt;/li&gt;
+      &lt;li&gt;Python&lt;/li&gt;
+      &lt;li&gt;…&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ecosystem
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/tutorials/using-plugin-with-wechaty&quot;&gt;Plugins&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/tutorials/using-vorpal-with-wechaty&quot;&gt;Vorpal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/tutorials/using-redux-with-wechaty&quot;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Commercial Companies
+    &lt;ol&gt;
+      &lt;li&gt;JuziBot &lt;a href=&quot;https://www.juzi.bot&quot;&gt;https://www.juzi.bot&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Chatopera &lt;a href=&quot;https://www.chatopera.com&quot;&gt;https://www.chatopera.com&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Community Cases
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/case-study/coaxer-bot&quot;&gt;哄女朋友开心&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://wechaty.js.org/docs/case-study/money-bot&quot;&gt;Money BOT&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Enterprise Cases
+    &lt;ol&gt;
+      &lt;li&gt;句子秒回 (Instance Reply) &lt;a href=&quot;https://www.juzibot.com/&quot;&gt;https://www.juzibot.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Contents
+    &lt;ol&gt;
+      &lt;li&gt;Talk: &lt;a href=&quot;https://wechaty.js.org/2017/01/06/wechaty-101-presentation/&quot;&gt;Wechaty 101: from v0.0 to v0.7, @huan, Jan 06, 2017&lt;/a&gt; (&lt;a href=&quot;https://docs.google.com/presentation/d/13oUOIEnzdLWO6KZWztD_pMuu22AQ3SIMjk2wp8f-f18/edit#slide=id.g194ee6e600_0_51&quot;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+      &lt;li&gt;Talk: &lt;a href=&quot;https://wechaty.js.org/2020/05/19/open-source-wechaty-huan-2020/&quot;&gt;Open-source Wechaty: 2016 to 2020, @huan, May 19, 2020&lt;/a&gt; (&lt;a href=&quot;https://docs.google.com/presentation/d/1eRNrKnCpdnsmplTwtZzmtGZgrPoNCmOnitmHKVc6iVU/edit#slide=id.g8568e8a985_3_8&quot;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+      &lt;li&gt;Slides: &lt;a href=&quot;https://docs.google.com/presentation/d/1aJ9j0VoRk0Dkyyajy3Z-zEI0QcpmpTjcCcabEXxo4JM/edit#slide=id.p&quot;&gt;Wechaty 2021, @huan, 2021&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/contributors/&quot;&gt;Contributors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sponsors
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;https://developers.google.com/season-of-docs&quot;&gt;Google Season of Docs&lt;/a&gt;: GSoD 2021: USD 9,500 sponsored from Google!&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://summer.iscas.ac.cn&quot;&gt;开源软件供应链点亮计划&lt;/a&gt;
+        &lt;ol&gt;
+          &lt;li&gt;暑期 2020: RMB 108,000 sponsored from Huawei!&lt;/li&gt;
+          &lt;li&gt;暑期 2021: RMB 75,000 sponsored from Huawei!&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://juzi.bot/&quot;&gt;Juzi.BOT&lt;/a&gt;: USD 1,500 per month&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/&quot;&gt;Microsoft&lt;/a&gt;: USD 4,000 per year Azure Cloud Credit (via AI &lt;a href=&quot;https://mvp.microsoft.com/&quot;&gt;MVP Program&lt;/a&gt;)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://cloud.tencent.com/&quot;&gt;Tencent&lt;/a&gt;: RMB 4,000 per year Tencent Cloud Credit (via Chatbot &lt;a href=&quot;https://cloud.tencent.com/tvp&quot;&gt;TVP Program&lt;/a&gt;)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://google.com&quot;&gt;Google&lt;/a&gt;: TensorFlow Research Cloud support (via ML &lt;a href=&quot;https://developers.google.com/community/experts&quot;&gt;GDE Program&lt;/a&gt;)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://news.mask.io/2019/12/10/sujitech-llc-joins-ecma-international&quot;&gt;SujiTech&lt;/a&gt;: USD 100 per month&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Honors &amp;amp; Awards
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/2020/12/31/open-source-award-wechaty/&quot;&gt;Chatbot SDK Wechaty 获国内顶级开源组织颁发大奖，@中国开源云联盟，Dec 31, 2020&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/2020/12/23/open-source-pioneer-huan/&quot;&gt;开源项目 Wechaty 作者李卓桓入选「中国开源先锋 33 人」, @思否，Dec 23, 2020&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Code of Conduct &lt;a href=&quot;https://wechaty.js.org/docs/community/code-of-conduct&quot;&gt;https://wechaty.js.org/docs/community/code-of-conduct&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Besides the above list, we still need our &lt;strong&gt;value proposition&lt;/strong&gt; to be added.&lt;/p&gt;
+
+&lt;h2 id=&quot;this-is-a-wechaty-gsod21-project&quot;&gt;This is a Wechaty GSoD’21 project&lt;/h2&gt;
+
+&lt;p&gt;That’s the reason why I want to add this docs page reconstructing project to our Wechaty GSoD’21. Please feel free to let me know what you think, and proposal for this project will be welcome!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-projects-problem&quot;&gt;The project’s problem&lt;/h3&gt;
+
+&lt;p&gt;Most of our new users come to Wechaty website by landing on our homepage at &lt;a href=&quot;https://wechaty.js.org&quot;&gt;https://wechaty.js.org&lt;/a&gt;. Unfortunately, the landing page is too simple and leak of enough information for new users, especially no valua proposition. This problem leads to us losing lots of new users, or make new users take more time to understanding what Wechaty can do and why we are the best.&lt;/p&gt;
+
+&lt;p&gt;We need to improve the homepage (landing page) on our website with value propositions.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-projects-scope&quot;&gt;The project’s scope&lt;/h3&gt;
+
+&lt;p&gt;Homepage (landing page) is the first look when a new user comes to our community. We need to make them to understanding what Wechaty can do and why we are the best.&lt;/p&gt;
+
+&lt;p&gt;The landing page should:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It must tell your audience:
+    &lt;ol&gt;
+      &lt;li&gt;How your product or service solves/improves problems&lt;/li&gt;
+      &lt;li&gt;What benefits customers can expect&lt;/li&gt;
+      &lt;li&gt;Why customers should buy from you over your competitors&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The value proposition needs to be specific, and address the problems that you can help your customers solve.
+    &lt;ol&gt;
+      &lt;li&gt;Identify all the benefits your product offers.&lt;/li&gt;
+      &lt;li&gt;Describe what makes these benefits valuable.&lt;/li&gt;
+      &lt;li&gt;Identify your customer’s main problem.&lt;/li&gt;
+      &lt;li&gt;Connect this value to your buyer’s problem.&lt;/li&gt;
+      &lt;li&gt;Differentiate yourself as the preferred provider of this value.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Value proposition should be clear and offers:
+    &lt;ol&gt;
+      &lt;li&gt;Relevancy. Explain how your product solves customers’ problems or improves their situation.&lt;/li&gt;
+      &lt;li&gt;Quantified value. Deliver specific benefits.&lt;/li&gt;
+      &lt;li&gt;Differentiation. Tell the ideal customer why they should buy from you and not from the competition.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The value proposition should bex a block of text (a headline, sub-headline, and one paragraph of text) with a visual (photo, hero image, graphics).
+    &lt;ol&gt;
+      &lt;li&gt;Headline. What is the end-benefit you’re offering in one short sentence? It can mention the product and/or customer. Make it an attention grabber.&lt;/li&gt;
+      &lt;li&gt;Sub-headline or a 2–3 sentence paragraph. A specific explanation of what you do/offer, for whom, and why it’s useful.&lt;/li&gt;
+      &lt;li&gt;3 bullet points. List the key benefits or features.&lt;/li&gt;
+      &lt;li&gt;Visual. Images communicate much faster than words. Show the product image, the hero shot, or an image reinforcing your main message.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Has headline/paragraph/bullets/visual formula to structure answer following questions.
+    &lt;ol&gt;
+      &lt;li&gt;What product or service is your project providing?&lt;/li&gt;
+      &lt;li&gt;What is the end-benefit of using it?&lt;/li&gt;
+      &lt;li&gt;Who is your target user for this project?&lt;/li&gt;
+      &lt;li&gt;What makes your offering unique and different?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Work with the contributor team to update the documentation on the Wechaty site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;what-is-out-of-scope-for-this-project&quot;&gt;What is out-of-scope for this project&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;This project is not for returns users: it’s for new users who have never used Wechaty before.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We have committer candidates for mentoring our GSoD project,
+and we estimate that this work will take three months to complete.
+The creator of Wechaty &lt;a href=&quot;https://wechaty.js.org/contributors/huan&quot;&gt;@huan&lt;/a&gt;
+(who is the creator of Wechaty)
+have committed to supporting the project.&lt;/p&gt;
+
+&lt;h2 id=&quot;measuring-your-projects-success&quot;&gt;Measuring your project’s success&lt;/h2&gt;
+
+&lt;p&gt;As of today, homepage on our site receive 25% of the landing traffic,
+57% of landing traffic is new,
+Bounce-rate is 60%,
+Pages/Session is 2,
+Avg. Session Duration is 03:11.&lt;/p&gt;
+
+&lt;p&gt;We will track the above metrics (bounce rate, pages per session, and avg session duration)
+monthly after the documentation is published.&lt;/p&gt;
+
+&lt;p&gt;We would consider the project successful if, after publication of the new homepage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The bounce rate of homepage decreased by 10% (&amp;lt;50%)&lt;/li&gt;
+  &lt;li&gt;The pages per session increases by 50% (&amp;gt;3)&lt;/li&gt;
+  &lt;li&gt;The avg session duration increased by 30% (&amp;gt; 4:00)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;budget&quot;&gt;Project budget&lt;/h2&gt;
+
+&lt;p&gt;USD 1,000.00&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Technical writer for reconstructing the Wechaty landing page&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;contact-us&quot;&gt;Contact us&lt;/h2&gt;
+
+&lt;p&gt;If you are a Technical Writer
+and you are interested to contribute in wechaty project
+for Google Season of Docs 2021,
+Please send your proposal
+(by following the
+&lt;a href=&quot;https://developers.google.com/season-of-docs/docs/tech-writer-statement&quot;&gt;template of writing the statement of interest&lt;/a&gt;
+from Google)
+to our mail list at &lt;a href=&quot;mailto:wechaty@googlegroups.com&quot;&gt;wechaty@googlegroups.com&lt;/a&gt; (&lt;a href=&quot;https://groups.google.com/g/wechaty&quot;&gt;web archive&lt;/a&gt;),
+and then introduce yourself after joining our &lt;a href=&quot;https://gitter.im/wechaty/wechaty&quot;&gt;Wechaty Gitter.im channel&lt;/a&gt; for connecting.&lt;/p&gt;</content><author><name>huan</name></author><category term="proposal" /><category term="gsod" /><category term="2021" /><category term="news" /><category term="featured" /><category term="marketing" /><category term="value-proposation" /><category term="proposal" /><summary type="html">What is Value Proposition? A value proposition is a statement that answers the ‘why’ someone should do business with you. It should convince a potential customer why your service or product will be of more value to them than similar offerings from your competition. — How to Crack the Google Season of Docs, Edidiong Asikpo, 2020</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/05-landing-page-value-proposition/value.webp" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/05-landing-page-value-proposition/value.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Google Season of Docs ❤️ Wechaty</title><link href="https://wechaty.js.org/2021/04/30/google-season-of-docs/" rel="alternate" type="text/html" title="Google Season of Docs ❤️ Wechaty" /><published>2021-04-30T00:00:00+00:00</published><updated>2021-04-30T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/04/30/google-season-of-docs</id><content type="html" xml:base="https://wechaty.js.org/2021/04/30/google-season-of-docs/">&lt;blockquote&gt;
+  &lt;p&gt;What is &lt;a href=&quot;https://developers.google.com/season-of-docs&quot;&gt;Google Season of Docs&lt;/a&gt;?
+  Season of Docs is an annual program organised by Google.
+  Its goal is to bring technical writers and open source organisations together to foster collaboration and improvement of documentation in the Open Source space.
+  — &lt;a href=&quot;https://www.freecodecamp.org/news/cracking-google-season-of-docs-2020/&quot;&gt;How to Crack the Google Season of Docs, Edidiong Asikpo, 2020&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-google-season-of-docs/google-season-of-docs-wechaty.webp&quot; alt=&quot;Wechaty Google Season of Docs 2021 - GSoD'21&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, Wechaty has been recongnized by Google and accepted by the Season of Docs (GSoD) program! We are very proud of participating in GSoD’21!&lt;/p&gt;
+
+&lt;p&gt;As one of the &lt;a href=&quot;https://developers.google.com/season-of-docs/docs/participants&quot;&gt;30 great open-source organizations&lt;/a&gt;, we want to improve our documentation, which definitely needs help from great Technical Writers!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-google-season-of-docs/wechaty-gsod-2021-participants.webp&quot; alt=&quot;Wechaty Google Season of Docs 2021 Participants&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We has started to prepare the GSoD’21 at Feb, our proposal is to &lt;em&gt;&lt;a href=&quot;https://wechaty.js.org/docs/gsod/2021/&quot;&gt;Create easy to learn tutorials for beginner users&lt;/a&gt;&lt;/em&gt; with a budget at $6,500.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, we has been accepted by the Google Season of Docs program, and our budget request has been granted as $9,500!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-google-season-of-docs/gsod-acceptance-2021.webp&quot; alt=&quot;Wechaty Google Season of Docs 2021 Acceptance Email&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wechaty Organization has been granted $9,500 from Google Season of Docs 2021.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;wechaty-gsod21-technical-writers&quot;&gt;Wechaty GSoD’21 technical writers&lt;/h2&gt;
+
+&lt;p&gt;After the Wechaty GSoD’21 has been announced by the Google officially on April 16, we have been contacted by 23 technical writers. It’s amazing that 15 of them have submitted the proposal and almost all proposals are in detail planing with great insights of how to improve the Wechaty docs.&lt;/p&gt;
+
+&lt;p&gt;Thanks for the following technical writers from GSoD’21: your proposal are very valuable for the Wechaty community, and we hope we can implemented most of them in the following summer months!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All names have been linked to their great proposals:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://06412355400643469324.googlegroups.com/attach/2696b2e901464/GSoD%202021%20Project%20Proposal(Abhishek%20Jaiswal).pdf?part=0.1&amp;amp;view=1&amp;amp;vt=ANaJVrH3pZ3BlMcLvPB0Hkmb5a0UOwzTxgIx35I_eiVuC-derjfLADp6bOkSNSplVMvJjxPvaSkAPmq-uhcbTI4yJfGY6tKzbegUoN3mwGlnY-7X-cuZUCU&quot;&gt;Abhishek Jaiswal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1GLxVZSUNDq_jf_OvZc82ZwjVK1ECB1srkBf2IyRYtGc/edit#heading=h.wu5oliio4h1o&quot;&gt;Ahmed Essam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/group/wechaty/attach/1f2bde59e72d6/Wechaty%20GSOD%202021.docx?part=0.1&amp;amp;view=1&quot;&gt;Anirudh TPVS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1KQHHFqXrxadsfELzYREjANdW4bgLq1v81OxJX7ujv3s/edit&quot;&gt;Chris Estepa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/scl/fi/99bghzgaxa6lr138s262w/GSoD-2021-Proposal_-Creating-Easy-to-learn-Tutorials-for-beginner-users-of-Wechaty.paper?dl=0&amp;amp;rlkey=idczdeprj5fz3padp7ttzg4g7&quot;&gt;David Atanda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1idLYEoqKcYoeID2jY-xufh3gRlDJhbmyy7MRhka38Q0/edit&quot;&gt;Jaya Gupta&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1WizCc8Tg047ZTnYX0wMA8tp213HVDKbCozgeLdbaeI8/edit#&quot;&gt;Mukosa Joseph Mawa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1YnUrU2-7gxn2e3t4HevDQbUYg3CqKRvMp_l2HFOioug/edit#&quot;&gt;Rohitesh Kumar Jain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1y_Gig1RTSKCAmzxiU-RHxLrDmtswLKn_ZdsEbPWm3Fg/edit&quot;&gt;Rufai Mustapha&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1szNLbHT8k6ty7xYE9aRvFW2QGrOeTKea5lfcUHLyPic/edit&quot;&gt;Sajen Sarvajith k&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/g/wechaty/c/gN3gFp1ZKsU/m/Y32JBGYbAQAJ&quot;&gt;Shraddha Prasad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://06412355400643469324.googlegroups.com/attach/1c45ede8c394c/shwetalsoni_gsod'21%20proposal_wechaty.pdf?part=0.1&amp;amp;view=1&amp;amp;vt=ANaJVrElF4m8VB99nbeqkqyqAljZNanks-RZwoh0kjtccYfVMzN9gQx54qseGHPw1adpo0qgrubdpE0C0LRokO9Ypjk6rRc-lJ9AqhFLotuKDmrGuMLvux4&quot;&gt;Shwetal Soni&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/group/wechaty/attach/138b8c1c79a04/Season%20of%20Docs%20Application-Simin%20Liao.pdf?part=0.1&amp;amp;view=1&quot;&gt;Simin Liao (廖思閔)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1q2_m0gqn7_cPLVPeMmIIzP_IEeGuQxEc_cztooOhLhc/edit&quot;&gt;Soumi Bardhan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1MD9CwO6BoB664J67ozfygBJUaawazay7dDpcXB3jJcY/edit&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;budget-plan&quot;&gt;Budget plan&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wechaty Tutorials: $5k (split to 2 writers)&lt;/li&gt;
+  &lt;li&gt;Reconstruct Wechaty landing page (homepage) with value proposition: $1k&lt;/li&gt;
+  &lt;li&gt;Introduction: $1k&lt;/li&gt;
+  &lt;li&gt;References: $1k&lt;/li&gt;
+  &lt;li&gt;Volunteer stipends: $500&lt;/li&gt;
+  &lt;li&gt;stipends for the writers has not been selected, but has submitted valid proposals or merged PRs: $1k&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Total: $9,500&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-the-next-steps&quot;&gt;What’s the next steps&lt;/h2&gt;
+
+&lt;p&gt;Today, we have send an announcement email to our Wechaty mailing list: &lt;a href=&quot;https://groups.google.com/g/wechaty/c/C7r1_GMRRa0&quot;&gt;Wechaty GSoD’21 Technical Writers Registration Form Opened&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are going to organize a Zoom meeting for discussing how to collaborate together to make Wechaty docs better. Our goal is to make everyone enjoy the Wechaty GSoD’21 by sharing and learning from each other.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;May 3: Send out the &lt;a href=&quot;https://forms.gle/2LDqrX5GUs6j9fJR9&quot;&gt;Google Form&lt;/a&gt; to technical writers&lt;/li&gt;
+  &lt;li&gt;May 5: Prepare Zoom Meeting: we will create agenda in &lt;a href=&quot;https://bit.ly/3gWBI9m&quot;&gt;meeting notes&lt;/a&gt; for all technical writers for adding agendas&lt;/li&gt;
+  &lt;li&gt;May 7: Online Zoom Meeting: the last discussion before the final selection. All technical writers will be invited to join, and everyone is welcome to join&lt;/li&gt;
+  &lt;li&gt;May 9: Announce the selection result of the technical writers for Wechaty GSoD’21&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;contact-us&quot;&gt;Contact us&lt;/h2&gt;
+
+&lt;p&gt;Talk to the community by joining our &lt;a href=&quot;https://gitter.im/wechaty/wechaty&quot;&gt;Gitter network&lt;/a&gt; if you aren’t already a member.&lt;/p&gt;</content><author><name>huan</name></author><category term="announcement" /><category term="google" /><category term="gsod" /><category term="2021" /><category term="docs" /><category term="news" /><category term="featured" /><category term="sticky" /><category term="documentation" /><summary type="html">What is Google Season of Docs? Season of Docs is an annual program organised by Google. Its goal is to bring technical writers and open source organisations together to foster collaboration and improvement of documentation in the Open Source space. — How to Crack the Google Season of Docs, Edidiong Asikpo, 2020</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/04-google-season-of-docs/wechaty-gsod-2021.webp" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/04-google-season-of-docs/wechaty-gsod-2021.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI Poet Chatbot powered by Python Wechaty &amp;amp; PaddleHub</title><link href="https://wechaty.js.org/2021/04/24/ai-chatbot-paddlehub/" rel="alternate" type="text/html" title="AI Poet Chatbot powered by Python Wechaty &amp;amp; PaddleHub" /><published>2021-04-24T00:00:00+00:00</published><updated>2021-04-24T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/04/24/ai-chatbot-paddlehub</id><content type="html" xml:base="https://wechaty.js.org/2021/04/24/ai-chatbot-paddlehub/">&lt;p&gt;小白也能超快上手的AI ChatBot教程，这次教大家一个用基于Python Wechaty和 PaddlePaddle 框架运行的，用AI续写情话的对话机器人。&lt;/p&gt;
+
+&lt;div style=&quot;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/A4BI1N1T410&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; frameborder=&quot;0&quot; style=&quot;
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    &quot;&gt;
+&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;合鸟 子 的B站link：&lt;a href=&quot;https://www.bilibili.com/video/BV1BB4y1A714/&quot;&gt;手把手教你做个用AI续写情话的Wechaty聊天机器人&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;请你入坑酷酷的 Python-Wechaty
+&lt;a href=&quot;https://wechaty.js.org/2021/02/03/python-wechaty-for-padlocal-puppet-service/&quot;&gt;Python Wechaty如何使用PadLocal Puppet Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;想要了接更多关于 合鸟 子 👆视频中，AI续写情诗Paddlehub训练模型的，请看：
+&lt;a href=&quot;https://www.bilibili.com/video/BV1Nv41117eA?from=search&amp;amp;seid=6621079025823617647/&quot;&gt;飞桨开发者说：AI教你写情诗&lt;/a&gt;&lt;/p&gt;</content><author><name>valerieeeee</name></author><category term="tutorial" /><category term="baidu" /><category term="ai" /><category term="chatbot" /><category term="paddle" /><category term="sticky" /><summary type="html">小白也能超快上手的AI ChatBot教程，这次教大家一个用基于Python Wechaty和 PaddlePaddle 框架运行的，用AI续写情话的对话机器人。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/04-ai-chatbot-paddlehub/banner.png" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/04-ai-chatbot-paddlehub/banner.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">入门：小白如何在wechaty社区发布自己的第一篇博客（一）</title><link href="https://wechaty.js.org/2021/04/22/how-to-publish-blog-on-wechaty/" rel="alternate" type="text/html" title="入门：小白如何在wechaty社区发布自己的第一篇博客（一）" /><published>2021-04-22T00:00:00+00:00</published><updated>2021-04-22T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/04/22/how-to-publish-blog-on-wechaty</id><content type="html" xml:base="https://wechaty.js.org/2021/04/22/how-to-publish-blog-on-wechaty/">&lt;blockquote&gt;
+  &lt;p&gt;作者: &lt;a href=&quot;https://github.com/atorber/&quot;&gt;atorber&lt;/a&gt;，一个不务正业的产品经理&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;谁是这篇博客读者&quot;&gt;谁是这篇博客读者&lt;/h2&gt;
+
+&lt;p&gt;很高兴能执笔这篇博客，第一次使用github向wechaty社区提交博客时Q到了@huan（提交了十几次才最终通过），因此也被印象深刻了。今天和大家分享一下零基础或有那么一丢丢基础的小白如何从0到1的在wechaty发布博客（成为一个贡献者）。&lt;/p&gt;
+
+&lt;p&gt;作为系列博客的第一篇，今天首先和大家分享一下两个内容：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;在wechaty发布博客的工作原理&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;来自官方的——How to post a blog&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;后续还有连载，请先读完这篇&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;在wechaty发布博客的工作原理&quot;&gt;在wechaty发布博客的工作原理&lt;/h2&gt;
+
+&lt;p&gt;之所以用”工作原理”来形容，是因为初学者在有了向wechaty发布博客的想法之后，很快会发现它在用一种「很技术的方式」而非传统的博客方式进行发布。
+技术到什么程度呢？你可能需要知道并了解以下几个工具：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;markdown&lt;/li&gt;
+  &lt;li&gt;git&lt;/li&gt;
+  &lt;li&gt;github&lt;/li&gt;
+  &lt;li&gt;jekyll（这个可以暂时没有）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;说原理：&lt;/p&gt;
+
+&lt;p&gt;我们把整个wechaty的博客当成一本电子书，每个人都可以在这本书中书写自己的文章并发布。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;先复制一本到自己的书架（fork it）&lt;/li&gt;
+  &lt;li&gt;下载这本书到电脑上（git clone）&lt;/li&gt;
+  &lt;li&gt;按&lt;strong&gt;规定的格式&lt;/strong&gt;要求添加自己的文章，并上传到自己的书架（git commit并git push）&lt;/li&gt;
+  &lt;li&gt;把书架上添加了自己内容的书发送给正本书的管理员审核（create pull requests）&lt;/li&gt;
+  &lt;li&gt;系统自动校验文章格式是否符合要求以及签署一个贡献协议（auto check）&lt;/li&gt;
+  &lt;li&gt;校验通过，等待管理员最终将内容更新到电子书的最新版本中&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;继续，我们结合官方的指导文档说一下注意事项&lt;/p&gt;
+
+&lt;h2 id=&quot;来自官方的how-to-post-a-blog&quot;&gt;来自官方的——How to post a blog&lt;/h2&gt;
+
+&lt;p&gt;来自官方的指导文档，对于有基础的同学直接移步参考原文&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org&quot;&gt;https://github.com/wechaty/wechaty.js.org&lt;/a&gt;——无论如何即使是零基础也希望大家先去阅读一下原文&lt;/p&gt;
+
+&lt;p&gt;对于一个英语困难者，wechaty的文档无疑是一个灾难，so，让我们来百度翻译并注释一下：&lt;/p&gt;
+
+&lt;h3 id=&quot;总共13步比大象装冰箱多了10步&quot;&gt;总共13步，比大象装冰箱多了10步&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;复刻（fork）wehaty代码&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;不知道什么是fork？总之很复杂，网上说的也不是很明白，简单点理解就是copy一份，到wechaty的github项目页面&lt;a href=&quot;https://github.com/wechaty/wechaty.js.org&quot;&gt;https://github.com/wechaty/wechaty.js.org&lt;/a&gt;，然后看图操作&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/04.png&quot; alt=&quot;fork&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;同步你的分支&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;不知道如何同步？后边说&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;在本地（自己的电脑上）创建你的博客分支&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;使用git把github上的代码下载下来，看图操作复制地址，然后在你要存放文件的目录运行&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone https://github.com/wechaty/wechaty.js.org.git&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/05.png&quot; alt=&quot;clone&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;使用markdown书写你的博客&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;不知道什么是markdown？后边说&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;添加你的博客文件到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/_post&lt;/code&gt;文件夹&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;打开下载下来的代码，整个博客的书写仅需要在jekyll这个目录下操作，不要动也不要管其他目录，正文放在jekyll/_post`下，其他文件下边会说，一下以当前这篇博客为例讲解，个人认为学习此类知识最好的方式就是Copy and Modify（俗称临摹）。&lt;/p&gt;
+
+    &lt;p&gt;例如本文正文,是在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/_post&lt;/code&gt;目录下创建名为&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2021-04-22-how-to-publish-blog-on-wechaty.md&lt;/code&gt;的文件并在里边写正文内容。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/01.png&quot; alt=&quot;根目录&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/02.png&quot; alt=&quot;jekyll目录&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/03.png&quot; alt=&quot;2021-04-22-how-to-publish-blog-on-wechaty.md&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;正文内容书写规范：&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;添加博客头&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;所有的博客都必须有标题、作者、背景图片,写在正文打最开始:&lt;/p&gt;
+
+    &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;s&quot;&gt;---&lt;/span&gt;
+ &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;入门：小白如何在wechaty社区发布自己的第一篇博客&quot;&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;atorber&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;article&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+   &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;blog&lt;/span&gt;
+   &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;wechaty&lt;/span&gt;
+   &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;study&lt;/span&gt;
+   &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;introduction&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/2021/04-how-to-publish-blog-on-wechaty/rare_book.jpeg&lt;/span&gt;
+ &lt;span class=&quot;s&quot;&gt;---&lt;/span&gt;
+
+ &lt;span class=&quot;pi&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;作者:&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;[atorber](https://github.com/atorber/)，不务正业的产品经理&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;写作风格&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;所有的文件名和url地址使用小写字母, 并且使用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt; 连接，不允许中文字符。例如本文正文文件名：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2021-04-22-how-to-publish-blog-on-wechaty.md&lt;/code&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;选择合适的图片可以使博客看起来更漂亮。例如本文背景图：&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/rare-book.jpeg&quot; alt=&quot;rare-book.jpeg&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;添加文档中的插图到 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/assets&lt;/code&gt; 文件夹，在文件夹下当前年份下建立一个以”月份+博客文件名”为名称的文件夹来存放相关图片&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;在发布之前插入图片和视频，需要将所有图片、视频文件保存在博客专属的文件夹中，文件夹的位置和命名方式 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/jekyll/assets/文章标标题/&lt;/code&gt;。例如本文图片存放文件夹：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/assets/2021/04-how-to-publish-blog-on-wechaty&lt;/code&gt;，本文背景图的完整路径&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/assets/2021/04-how-to-publish-blog-on-wechaty/rare_book.jpeg&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;添加你的个人信息到&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/_contributors/your_github_id.md&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;新建一个文件your_github_id.md，把your_github_id换成你的github账号。例如本文个人信息文件&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/_contributors/atorber.md&lt;/code&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;个人信息内容&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;s&quot;&gt;---&lt;/span&gt;
+ &lt;span class=&quot;s&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;atorber&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;lt;https://github.com/atorber&amp;gt;&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;bio&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;一个不误正业的产品经理&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;avatar&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/contributors/atorber/avatar.png&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;tyutluyc@qq.com&lt;/span&gt;
+ &lt;span class=&quot;s&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;个人头像&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;在&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/assets/contributors&lt;/code&gt;目录下新建一个your_github_id命名的文件夹，并把个人头像以avatar.png命名存放起来。
+ 本文个人头像完整路径&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/assets/contributors/atorber/avatar.png&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;提交更改，使用博客标题作为备注信息&lt;/p&gt;
+
+    &lt;p&gt;以文章标题为备注信息提交。本文示例提交命令&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;入门：小白如何在wechaty社区发布自己的第一篇博客&quot;&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;推送到分支&lt;/p&gt;
+
+    &lt;p&gt;推送分支到自己的github&lt;/p&gt;
+
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push origin master&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;创建一个新的Pull请求&lt;/p&gt;
+
+    &lt;p&gt;这一步在github界面操作（也可能可以直接推送到wechaty，超哥没有get到方法）&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/2021/04-how-to-publish-blog-on-wechaty/06.png&quot; alt=&quot;pull request&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;签署CLA&lt;/p&gt;
+
+    &lt;p&gt;什么CLA？后边说，到自动检查的步骤会提示，首次签署时刘毅页面提示，超哥因为之前已经签署过了，暂时没办法操作截图，后边不上&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;等待传递GitHub操作CI，或者修复任何东西以确保CI变为绿色&lt;/p&gt;
+
+    &lt;p&gt;Wait for pass the GitHub Action CI, or fix whatever to make sure CI turns green，百度直译，超哥也没搞太清楚，后边说&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;等待@wechaty的管理员审核&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;就这些!就这些？就这些…&lt;/p&gt;
+
+&lt;h3 id=&quot;贡献准则&quot;&gt;贡献准则&lt;/h3&gt;
+
+&lt;p&gt;需要特别注意的几个点：&lt;/p&gt;
+
+&lt;h4 id=&quot;1-markdown格式规范化校验&quot;&gt;1. markdown格式规范化校验&lt;/h4&gt;
+
+&lt;p&gt;在文件命名正确、文件存放位置正确的情况下，大部分自动校验不通过的原因是正文markwown格式存在错误，原因是系统对格式进行了严格校验，尤其是对之前会使用markdown但对使用不规范的同学来说，需要认真学习一下了，可参考文档 &lt;a href=&quot;https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md&quot;&gt;https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-只提交相关的文件&quot;&gt;2. 只提交相关的文件&lt;/h4&gt;
+
+&lt;p&gt;请勿提交博客不相关的文件&lt;/p&gt;
+
+&lt;h4 id=&quot;3-添加视频或pdf&quot;&gt;3. 添加视频或pdf&lt;/h4&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  
+
+
+
+
+
+
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://www.youtube.com/embed/3eq8wJfCAWs'&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;webkitallowfullscreen&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    &quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;或者&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  
+
+
+
+
+
+
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'/assets/js/viewer-js/#/assets/2020/qijibot/final.pdf'&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;webkitallowfullscreen&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    &quot;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;更多： &lt;a href=&quot;https://wechaty.js.org/2020/08/24/add-video-to-wechaty-blog/&quot;&gt;将iframe添加到wechaty博客&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;测试进阶内容可以了解下&quot;&gt;测试（进阶内容，可以了解下）&lt;/h3&gt;
+
+&lt;p&gt;为了确保一切（文件名、文件大小等）都正常，可以在“git push”之前运行以下命令检查它们。&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm &lt;span class=&quot;nb&quot;&gt;install
+&lt;/span&gt;npm &lt;span class=&quot;nb&quot;&gt;test&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;预览&quot;&gt;预览&lt;/h3&gt;
+
+&lt;p&gt;在本地运行Jekyll来预览博客。&lt;/p&gt;
+
+&lt;p&gt;——什么是Jekyll，自定百度&lt;/p&gt;
+
+&lt;h4 id=&quot;0-依赖&quot;&gt;0. 依赖&lt;/h4&gt;
+
+&lt;p&gt;按照官方指示在本地安装jekyll &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;jekyll quickstart&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1-手动安装jekyll&quot;&gt;1. 手动安装Jekyll&lt;/h4&gt;
+
+&lt;p&gt;在本地运行Jekyll进行博客预览(对于熟悉Ruby语言的同学更容易一些。）&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  make &lt;span class=&quot;nb&quot;&gt;install
+  cd &lt;/span&gt;jekyll
+  make serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;2-预览博客&quot;&gt;2. 预览博客&lt;/h4&gt;
+
+&lt;p&gt;访问 &lt;a href=&quot;http://127.0.0.1:4000/blog/&quot;&gt;http://127.0.0.1:4000/blog/&lt;/a&gt; 可以预览博客!&lt;/p&gt;
+
+&lt;h4 id=&quot;3-总结&quot;&gt;3. 总结&lt;/h4&gt;
+
+&lt;p&gt;安装Jekyll的过程有些小复杂了，略过吧&lt;/p&gt;
+
+&lt;h2 id=&quot;最后&quot;&gt;最后&lt;/h2&gt;
+
+&lt;p&gt;真正在写这篇博客时才发现，试图通过几篇博客教会0基础读者和0基础读者希望通过几篇博客成功发布自己的内容一样困难，无论如何，希望这些内容能给大家带来一些帮助。&lt;/p&gt;
+
+&lt;p&gt;TODO:&lt;/p&gt;
+
+&lt;p&gt;结合以上内容发布一个视频教程，或许是更好的选择，期待后续有时间或其他贡献者一起制作&lt;/p&gt;
+
+&lt;h2 id=&quot;常见问题&quot;&gt;常见问题&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;macOS下报错&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll/assets/.DS_Store does not match /\/[0-9\-a-z_]+\./!？&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;mac下烦人的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.DS_Store&lt;/code&gt;文件，运行&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo find / -name &quot;.DS_Store&quot; -depth -exec rm {} \;&lt;/code&gt;，然后，等几分钟和碰运气…&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;更多问题后续会根据反馈继续补充&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;历史文章&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/2021/03/17/node-wechaty-and-wechaty-puppet-padlocal/&quot;&gt;Wechaty+微信小程序实现群内活动报名&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>atorber</name></author><category term="article" /><category term="blog" /><category term="study" /><category term="introduction" /><summary type="html">作者: atorber，一个不务正业的产品经理</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/04-how-to-publish-blog-on-wechaty/rare-book.jpeg" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/04-how-to-publish-blog-on-wechaty/rare-book.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI ChatBot Creation Camp创意赛重磅来袭！</title><link href="https://wechaty.js.org/2021/04/22/wechaty-with-paddlepaddle/" rel="alternate" type="text/html" title="AI ChatBot Creation Camp创意赛重磅来袭！" /><published>2021-04-22T00:00:00+00:00</published><updated>2021-04-22T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/04/22/wechaty-with-paddlepaddle</id><content type="html" xml:base="https://wechaty.js.org/2021/04/22/wechaty-with-paddlepaddle/">&lt;p&gt;比赛报名入口：&lt;a href=&quot;https://aistudio.baidu.com/aistudio/competition/detail/79&quot;&gt;AI ChatBot 创意赛&lt;/a&gt;
+比赛时间：2021/04/12 - 2021/05/31&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-wechaty-with-paddlepaddle/logs.png&quot; alt=&quot;logs&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;比赛介绍&quot;&gt;比赛介绍&lt;/h2&gt;
+
+&lt;p&gt;✨ 人工智能时代的ChatBot需要具备哪些能力？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;它是智能小管家，帮你整理所有“码了就等于看了”的资料？&lt;/li&gt;
+  &lt;li&gt;它是斗图大师，分分钟帮你p好好友的鬼畜表情包？&lt;/li&gt;
+  &lt;li&gt;它是无情的夸人机器，每天都能自动生成新的彩虹屁？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;实用的、有趣的、鬼畜的… 不知大侠有何高见？快来组队实现吧！PaddlePaddle融合Wechaty能 spark 出怎样的inspiration？我们欢迎所有关于ChatBot的创意项目！只要你的项目够优秀，官方送你出道！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-wechaty-with-paddlepaddle/eliza.png&quot; alt=&quot;eliza&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1950年，艾伦·麦席森·图灵以一篇划时代的文章扣开了人工智能的大门。与此同时，机器能否让大批人类失误？怎样的智能才能匹配时代发展的脚步？未来的世界又该如何突破图灵测试的桎梏？接踵而至的问题让人们对AI充满了期待。&lt;/p&gt;
+
+&lt;p&gt;很快，在1966年诞生ELIZA就让图灵测试感受到AI的力量。这款由麻省理工学院开发的聊天机器人（ChatBot）获得了媲美心理医生的能力，其以大量的心理学语句为数据进行训练，在与病人沟通时，能够通过关键词逻辑选择将对话往更加聚焦的方向引导，进而挖掘对话人的真实需求和动机，而这些能力也让当时很多人误以为ELIZA就是真人。&lt;/p&gt;
+
+&lt;p&gt;“有多少智能，就有多少人工”。ELIZA的成功的背后是大量人力成本的注入，在前期训练成本增加的同时，其也更容易让被测试人相信自己所面对的就是一个有血有肉的“心理医生”。不过问题也一样存在，除了训练成本过高以外，1966年的NLP技术也太过稚嫩，ELIZA无法真正理解词汇，也无法进行自我学习和进化。&lt;/p&gt;
+
+&lt;p&gt;时光携技术一同推动了命运的转轮，AI发展至今也早不是昔日的吴下阿蒙。如今，ELIZA的后辈们活跃于各个领域，手机上的智能助手，电商用的智能客服，家庭生活的智能管家，交流用的表情包……ChatBot的训练语句在缩短，场景使用时间却延长了；ChatBot开发成本在减少，发挥空间却增加了；ChatBot的门槛在降低，人文温度却提升了。这一切的变化无不在告知这个时代：&lt;strong&gt;ChatBot的新时代到来了&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;在这个时代里，ChatBot的竞争早已不再局限于技术，创意也显得尤为重要。因此，为了发掘更多优秀的ChatBot开发项目，培养更大优质人才，PaddleHub携手开源聊天机器人框架Wechaty带来了《AI ChatBot创意赛》。如果你在ChatBot开发方面有想法也有能力，那么欢迎报名参与本次大赛，为未来设计一款更加新颖、可靠、实用的ChatBot。而如果你的ChatBot创意项目足够优秀并进入了最终决赛，那么飞桨官方将会帮助你登上WAVE SUMMIT 2021峰会的舞台！&lt;/p&gt;
+
+&lt;h2 id=&quot;赛题介绍&quot;&gt;赛题介绍&lt;/h2&gt;
+
+&lt;p&gt;本次大赛需要所有选手使用PaddleHub和Wechaty两个开源产品来打造属于自己的创意ai ChatBot，而大赛官方为选手们提供的不仅是一个全新的AI能力平台，也是一个能够与各路好手一较高下的舞台。那么这两大开源产品有哪些能力呢？&lt;/p&gt;
+
+&lt;h3 id=&quot;paddlehub&quot;&gt;PaddleHub&lt;/h3&gt;
+
+&lt;p&gt;PaddleHub是飞桨深度学习平台下的预训练模型应用管理工具。旨在为开发者提供丰富的、高质量的、直接可用的预训练模型。无需深度学习背景、无需数据与训练过程，可快速使用AI模型。预训练模型涵盖CV、NLP、Audio、Video主流四大品类，支持一键预测、一键服务化部署和快速迁移学习。全部模型均已开源并提供下载，可离线运行。&lt;/p&gt;
+
+&lt;p&gt;当然，PaddleHub不仅仅能够用于开发ChatBot，在之前的各类活动中，开发者朋友也利用这一平台开发出多个优质项目，比如传统艺术皮影戏的复现；也有人让AI大说土味情怀，一边尬一边撩；有人实现了一键替换天空，人人都能成为斯皮尔伯格；再或者利用AI帮助作画，轻松打破次元壁。而这些Demo均在GitHub开源可见。&lt;/p&gt;
+
+&lt;p&gt;查看精彩Demo请前往：&lt;a href=&quot;https://github.com/PaddlePaddle/PaddleHub#visualization-demo&quot;&gt;github.com/PaddlePaddle/PaddleHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;wechaty&quot;&gt;Wechaty&lt;/h3&gt;
+
+&lt;p&gt;Wechaty 是一个开源聊天机器人框架SDK，具有多平台、多语言和多插件的特性，支持Python, Go, Java, Scala, .NET, PHP, Rust 等多语言版本，通过几行代码即可创建一个聊天机器人。经过5年多的发展，现在Wechaty开源社区已拥有数十位Committers，百余位Contributors，并被万名Github开发者Star。目前，Wechaty的开发者已遍布全球多个国家和地区，覆盖数万人，是国内最活跃的Conversational AI Chatbot 开发者社区。&lt;/p&gt;
+
+&lt;p&gt;Wechaty的优势在于对代码质量地管理，开发者可以使用了Github Actions地DevOps工具完成了CI/CD工作流，从自动化单元测试到自动打包集成测试，从自动发布NPM包到自动构建和发布对应版本地Docker Image，实现了全自动地社区代码发布，极大地提高了社区地协同效率。&lt;/p&gt;
+
+&lt;p&gt;目前，在Github上已有千余个开源项目基于Wechaty构建了聊天机器人。另外，Wechaty统一了即时通讯软件平台的对话接口，仅需要一套代码即可运行在多个平台之上，目前已成熟高效地推动了包括社群管理、数据运维、办公、资讯、广告、营销等多个领域不同实用场景的落地。比如OSS.Chat能够打通Github开发者社区，让开源社区获得即时动态；YanBot辅助管理相关的多个微信讨论群The R-fMRI Journal Club，并对用户对领域内文献的讨论和相关脑影像技术问题进行桥接；以及python-Wechaty斗图机器人能够与联系人趣聊斗图。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-wechaty-with-paddlepaddle/wechaty-structure.png&quot; alt=&quot;wechaty-structure&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;几行代码融合wechaty和paddlehub&quot;&gt;几行代码融合Wechaty和PaddleHub&lt;/h3&gt;
+
+&lt;p&gt;通过Wechaty的官方教程在本地搭建并运行Pyhton版本的Wechaty，使用Paddlehub预训练的文本生成模型与Wechaty的自动回复消息进行结合，实现了通过微信输入文字返回情话的功能。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-wechaty-with-paddlepaddle/wechaty-paddlehub.png&quot; alt=&quot;wechaty-paddlehub&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Python 3.8 / Pip 20.1.1 / PaddleHub 2.0.4 / PaddlePaddle 2.0.2&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;参赛支持&quot;&gt;参赛支持&lt;/h2&gt;
+
+&lt;p&gt;在本次比赛中，Wechaty为参赛选手免费提供token。同时，百度大脑AI Studio还将为参赛选手免费发放100小时 GPU Tesla V100算力卡，选手报名即可在数据下载页获得申请地址。  &lt;/p&gt;
+
+&lt;p&gt;不仅如此，4月14日 晚8：10， PaddleHub和Wechaty的工程师带来产品讲解及Demo演示，手把手带你使用这两款利器打造自己的AI Chatbot！&lt;/p&gt;
+
+&lt;div style=&quot;
+    position: relative;
+    padding-bottom: 70%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+&quot;&gt;
+  &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=672615010&amp;amp;bvid=BV16U4y1h7dc&amp;amp;cid=324632441&amp;amp;page=1&amp;amp;high_quality=1&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; frameborder=&quot;0&quot; style=&quot;
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    &quot;&gt;
+&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;参赛奖品&quot;&gt;参赛奖品&lt;/h2&gt;
+
+&lt;p&gt;本次大赛的奖品依然分为两部分， 对于优秀参赛选手而言，飞桨将会为其提供官方渠道曝光和近距离接触专家的机会。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;WAVE SUMMIT峰会官方出道位：优秀项目作者将有机会获得WAVE SUMMIT官方出道机会&lt;/li&gt;
+  &lt;li&gt;投稿精选项目获得更多曝光: 比赛期间，选手可以在在AI Studio投稿，一旦通过精选项目评审，则可得到更多曝光机会。&lt;/li&gt;
+  &lt;li&gt;Paddle/Wechaty工程师1对1项目指导：优秀项目作者将有机会接受百度资深工程师及Wechaty社区资深工程师的1对1技术指导。&lt;/li&gt;
+  &lt;li&gt;PPDE/Wechaty Community Contributor绿色通道 ：优秀项目作者将获得飞桨PPDE技术专家及Wechaty Community Contributor申请绿色通道。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;当然，作为一场开发者大赛，丰厚的奖金和奖品也自然必不可少。百度飞桨针对参赛选手提供了以下奖励：&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;名称&lt;/th&gt;
+      &lt;th&gt;数量&lt;/th&gt;
+      &lt;th&gt;奖励&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;一等奖&lt;/td&gt;
+      &lt;td&gt;1名&lt;/td&gt;
+      &lt;td&gt;1万元人民币&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;二等奖&lt;/td&gt;
+      &lt;td&gt;1名&lt;/td&gt;
+      &lt;td&gt;Apple iPad Air 256G 1个（价值2598元）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;三等奖&lt;/td&gt;
+      &lt;td&gt;1名&lt;/td&gt;
+      &lt;td&gt;Switch游戏机 1个（价值2200元）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;早鸟奖&lt;/td&gt;
+      &lt;td&gt;10名&lt;/td&gt;
+      &lt;td&gt;Wechaty creators 李佳芮&amp;amp;李卓桓《Chatbot从0到1》1本&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;提交奖&lt;/td&gt;
+      &lt;td&gt;不限&lt;/td&gt;
+      &lt;td&gt;比赛定制社区纪念品&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;需要注意的是，所有提交了参赛作品的选手均可获得由百度飞桨官方提供的独家纪念品一份！而本次活动的最终决赛将会成为百度年中开发者盛会WAVE SUMMIT上的一环，如果你的作品足够优秀并进入了决赛阶段，那么WAVE SUMMIT全场最靓的仔很可能就是你哦！&lt;/p&gt;
+
+&lt;h2 id=&quot;赛程赛制&quot;&gt;赛程赛制&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;时间&lt;/th&gt;
+      &lt;th&gt;赛程&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2021/4/12&lt;/td&gt;
+      &lt;td&gt;正式启动注册报名&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2021/4/14&lt;/td&gt;
+      &lt;td&gt;线上比赛宣讲&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2021/4/20&lt;/td&gt;
+      &lt;td&gt;项目repo提交入口开启&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2021/5/10&lt;/td&gt;
+      &lt;td&gt;项目提交截止&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2021/5月中下旬&lt;/td&gt;
+      &lt;td&gt;最终决赛&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;参赛对象及要求&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;参赛对象：本次竞赛面向全社会开放，不限年龄、身份、国籍，相关领域的个人、高等院校、科研机构、企业单位、初创团队等均可报名参赛。&lt;/li&gt;
+    &lt;li&gt;参赛要求：&lt;/li&gt;
+    &lt;li&gt;本次比赛可以个人参加也可以团队参加，团队人数上线为5人。&lt;/li&gt;
+    &lt;li&gt;参赛方式及规则&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;（1） 所有参赛选手都必须在百度大脑AI Studio平台注册报名；
+  （2） 参赛者在规定时间内须基于飞桨深度学习平台进行项目制作，不得使用其他相关平台、框架及任何飞桨中未包含的学习方法参赛；
+  （3） 参赛选手需确保注册时提交信息准确有效，所有的比赛资格及奖金支付均以提交信息为准，团队参赛的奖金和奖品将发送至团队队长，由团队内部自行决定奖金和奖品的分配；
+  （4）选手名及队伍名的设定不得违反中国法律法规或社会公序良俗，且参赛队伍命名中不可出现“百度官方”，“飞桨官方”，“paddle官方”，“官方baseline”等字样。若命名违规的队伍在收到比赛主办方警告后仍未修改队伍名称，比赛主办方有权解散该队伍 ；
+  （5） 赛事交流群：微信扫码添加飞桨小哥哥，回复“创意赛”即可入群。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2021/04-wechaty-with-paddlepaddle/qrcode.png&quot; alt=&quot;qrcode&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;参赛须知补充&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;公平竞技： 参赛者禁止在比赛中抄袭他人作品，经发现将取消比赛成绩并严肃处理；&lt;/li&gt;
+    &lt;li&gt;组织声明： 组委会保留对比赛规则、赛事安排进行调整和修改的权利、比赛作弊行为的判定权利和处置权利、收回或拒绝授予影响组织及公平性的参赛团队奖项的权利；&lt;/li&gt;
+    &lt;li&gt;作品产权： 参赛作品(包含但不限于算法、模型等)知识产权归参赛选手所有，组委会有权将参赛作品、作品相关、参赛团队信息用于宣传品、相关出版物、指定及授权媒体发布、官方网站浏览及下载、展览（含巡展）等活动项目，大赛组织单位享有优先合作权利。&lt;/li&gt;
+    &lt;li&gt;反作弊说明
+（1） 参与者禁止注册多账户报名，经发现将取消成绩并严肃处理。
+（2） 参与者禁止在考核技术能力的范围外利用规则漏洞或技术漏洞等不良途径提高成绩排名，禁止上传其他项目链接进行积分。经发现将取消成绩并严肃处理。
+（3） 可以接触到赛题相关数据的人员，其提交作品将不计入排行榜及评奖。
+（4） AI Studio将收集选手信息以及代码、模型、系统报告用于成绩评定、比赛通知等相关比赛事项。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>wj-mcat</name></author><category term="article" /><category term="baidu" /><category term="ai" /><category term="chatbot" /><category term="competition" /><summary type="html">比赛报名入口：AI ChatBot 创意赛 比赛时间：2021/04/12 - 2021/05/31</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/04-wechaty-with-paddlepaddle/header.png" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/04-wechaty-with-paddlepaddle/header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">教你用python-wecahty和web协议开发机器人</title><link href="https://wechaty.js.org/2021/04/17/python-wechaty-use-web/" rel="alternate" type="text/html" title="教你用python-wecahty和web协议开发机器人" /><published>2021-04-17T00:00:00+00:00</published><updated>2021-04-17T00:00:00+00:00</updated><id>https://wechaty.js.org/2021/04/17/python-wechaty-use-web</id><content type="html" xml:base="https://wechaty.js.org/2021/04/17/python-wechaty-use-web/">&lt;blockquote&gt;
+  &lt;p&gt;作者: &lt;a href=&quot;https://github.com/wj-Mcat&quot;&gt;wj-mcat&lt;/a&gt; 自然语言处理算法工程师，python-wechaty 作者&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;写这篇文章的原因: go-wechaty作者&lt;a href=&quot;https://github.com/dchaofei&quot;&gt;dchaofei&lt;/a&gt;抢先写了&lt;a href=&quot;https://wechaty.js.org/2021/04/16/go-wechaty-use-web/&quot;&gt;web协议复活的博客&lt;/a&gt;，作为&lt;a href=&quot;http://github.com/wechaty/python-wechaty&quot;&gt;python-wechaty&lt;/a&gt;的作者我也需要给大家更加详细的介绍如何使用&lt;a href=&quot;http://github.com/wechaty/python-wechaty&quot;&gt;python-wechaty&lt;/a&gt;来登陆web版本的微信。&lt;/p&gt;
+
+&lt;h2 id=&quot;一介绍&quot;&gt;一、介绍&lt;/h2&gt;
+
+&lt;p&gt;微信版本的机器人种类很多，出现的协议也很多，比如Ipad、Mac以及Windows协议，而最早出现的其实是web版本的协议。在前几年由于腾讯的一些限制，将大部分用户的web登陆的权限给关掉了，导致很多web协议版本的微信机器人直接死掉了，比如著名的itchat。&lt;/p&gt;
+
+&lt;p&gt;可是自从统信和腾讯共同推出桌面版本的微信之后，web版本的机器人以某种方式复活了，而wechaty便是最早来解决这个事情的开源项目之一，接下来我将详细介绍如何使用&lt;a href=&quot;http://github.com/wechaty/python-wechaty&quot;&gt;python-wechaty&lt;/a&gt;基于web版本协议开发聊天机器人。&lt;/p&gt;
+
+&lt;p&gt;整体步骤分为两步：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;使用Docker启动web协议服务&lt;/li&gt;
+  &lt;li&gt;使用python-wechaty连接服务&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;第一步将web版本的协议以gRPC服务的形式暴露出来，使用过程非常简单，只是需要注意几个配置项；第二步则是使用python-wechaty连接该服务，开发聊天机器人。&lt;/p&gt;
+
+&lt;h2 id=&quot;二启动web协议服务&quot;&gt;二、启动web协议服务&lt;/h2&gt;
+
+&lt;p&gt;启动web协议服务脚本如下所示：&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker pull wechaty/wechaty:latest
+
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WECHATY_LOG&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;verbose&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WECHATY_PUPPET&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;wechaty-puppet-wechat&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WECHATY_PUPPET_SERVER_PORT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;8080&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WECHATY_TOKEN&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;python-wechaty-uos-token&quot;&lt;/span&gt;
+
+docker run &lt;span class=&quot;nt&quot;&gt;-ti&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;--name&lt;/span&gt; wechaty_puppet_service_token_gateway &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;--rm&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; WECHATY_LOG &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; WECHATY_PUPPET &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; WECHATY_PUPPET_SERVER_PORT &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; WECHATY_TOKEN &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$WECHATY_PUPPET_SERVER_PORT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$WECHATY_PUPPET_SERVER_PORT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+wechaty/wechaty:latest
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;如果是在本地测试时，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_PUPPET_SERVER_PORT&lt;/code&gt;和&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_TOKEN&lt;/code&gt;相对比较随意，大家都可以随时设置，因为下一步中的连接可以设置本地连接。&lt;/p&gt;
+
+&lt;p&gt;如果是在服务端部署时，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_PUPPET_SERVER_PORT&lt;/code&gt;是需要保证所在服务器的该端口是保持开放的，以保证使用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python-wechaty&lt;/code&gt;能够正常连接；此外&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_TOKEN&lt;/code&gt;将用于在wechaty token中心注册启动的服务，以让&lt;a href=&quot;http://github.com/wechaty/python-wechaty&quot;&gt;python-wechaty&lt;/a&gt;能够找到该服务的地址，所以必须是修改成唯一标识符，推荐使用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;uuid&lt;/code&gt;来代替&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python-wechaty-uos-token&lt;/code&gt;。&lt;/p&gt;
+
+&lt;h2 id=&quot;三使用python-wechaty连接服务&quot;&gt;三、使用python-wechaty连接服务&lt;/h2&gt;
+
+&lt;p&gt;使用python开发最简单的聊天机器人，代码如下所示：&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# bot.py
+&lt;/span&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;wechaty&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Wechaty&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;asyncio&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;bot&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Wechaty&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;bot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'scan'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;qrcode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Scan QR Code to login: {}&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;https://wechaty.js.org/qrcode/{}'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;status&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;qrcode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;bot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'login'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'User {} logged in'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;bot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'message'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Message: {}'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;asyncio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;当在本地测试时，可以通过设置&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_PUPPET_SERVICE_ENDPOINT&lt;/code&gt;环境变量让&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python-wechaty&lt;/code&gt;直接与本地的web服务连接。例如：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_PUPPET_SERVICE_ENDPOINT=127.0.0.1:8080&lt;/code&gt;，运行脚本如下所示：&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;WECHATY_PUPPET_SERVICE_TOKEN&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;python-wechaty-uos-token &lt;span class=&quot;nv&quot;&gt;WECHATY_PUPPET_SERVICE_ENDPOINT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;127.0.0.1:8080 python bot.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;当在远端服务器部署时，只需要设置&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WECHATY_PUPPET_SERVICE_TOKEN&lt;/code&gt;即可连接启动的web服务，运行脚本如下所示：&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;WECHATY_PUPPET_SERVICE_TOKEN&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;python-wechaty-uos-token python bot.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;python-wechaty是一个非常简单的聊天机器人框架，理论上能够对接任何IM平台，拥有原生与AI对接的能力，能够快速开发出功能强大的Chatbot，欢迎大家关注&lt;a href=&quot;https://github.com/wechaty/python-wechaty&quot;&gt;python-wechaty&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;相关链接&quot;&gt;相关链接&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wechaty/python-wechaty&quot;&gt;python-wechty&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wechaty/python-wechaty-getting-started&quot;&gt;python-wechaty getting started&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/2021/04/13/wechaty-uos-web/&quot;&gt;web协议复活&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/docs/polyglot/python/&quot;&gt;Python Wechaty Getting Started&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wechaty.js.org/docs/puppet-providers/wechat&quot;&gt;puppet-providers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>wj-mcat</name></author><category term="article" /><category term="code" /><category term="wechaty-puppet-wechat" /><category term="web-protocol" /><category term="python" /><summary type="html">作者: wj-mcat 自然语言处理算法工程师，python-wechaty 作者</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wechaty.js.org/assets/2021/04-python-wechaty-use-web/wechaty-love-wechaty-desktop.png" /><media:content medium="image" url="https://wechaty.js.org/assets/2021/04-python-wechaty-use-web/wechaty-love-wechaty-desktop.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
